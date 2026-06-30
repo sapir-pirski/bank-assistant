@@ -1,0 +1,23 @@
+services:
+  policy-chatbot:
+    build: .
+    env_file:
+      - .env
+    environment:
+      DATA_DIR: /app/data
+      CHROMA_PATH: /app/chroma_data
+    volumes:
+      - chroma_data:/app/chroma_data
+      - ./data:/app/data:ro
+      - ./reports:/app/reports
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
+
+volumes:
+  chroma_data:

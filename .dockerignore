@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.template
+
+.git/
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+chroma_data/
+reports/
+
+Data Scientist Assignment Chatbot with RAG and OpenAI.pdf

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ONE ZERO Policy Assistant</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="chat-region" aria-label="Chat">
+        <header class="topbar">
+          <div>
+            <h1>ONE ZERO Policy Assistant</h1>
+            <p id="statusText">Ready</p>
+          </div>
+        </header>
+
+        <div id="messages" class="messages" aria-live="polite"></div>
+
+        <form id="chatForm" class="composer">
+          <textarea
+            id="messageInput"
+            name="message"
+            rows="2"
+            maxlength="2000"
+            placeholder="Ask about cards or securities policies"
+            required
+          ></textarea>
+          <button id="sendButton" class="send-button" type="submit">Send</button>
+        </form>
+      </section>
+
+      <aside class="sources-region" aria-label="Sources">
+        <header>
+          <h2>Sources</h2>
+          <p id="sourceMeta">No sources yet</p>
+        </header>
+        <div id="sources" class="sources"></div>
+      </aside>
+    </main>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>
