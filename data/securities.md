@@ -4,7 +4,7 @@
 
 ### Securities via the mobile application
 
-It is possible to trade securities and use our trading system to buy stocks, have an easy overview, make instructions and follow stocks through the [securities page](https://app.tfd-bank.com/portfolio/securities) in the mobile app.
+It is possible to trade securities and use our trading system to buy stocks, have an easy overview, make instructions and follow stocks through the securities page in the mobile app.
 
 
 ## Types of Securities
@@ -101,19 +101,19 @@ The trading platform allows to trade in:
 * foreign securities through the US stock exchange
 * mutual funds, such as active funds and tracking funds, through the Tel Aviv stock exchange
 
-Trading is available through the [securities store](https://app.tfd-bank.com/portfolio/securities/store).
+Trading is available through the securities store.
 
 
 ## Bank Trade Instructions Hours and Conditional instructions
 
 ### Securities Team Operational Hours
-The phone and chat service hours of the [Securities Team](/actions/securities_agent) on Sunday are between 09:30-16:00, and on Monday to Thursday are between 09:30-23:00.
+The phone and chat service hours of the Securities Team on Sunday are between 09:30-16:00, and on Monday to Thursday are between 09:30-23:00.
 You can call the Securities Team by calling *6700 during business day's hours.
 Note that on holidays and holiday eves, the business day's hours may change.
 
 ### Trading, modifying and Canceling Trade Instructions
-Should you encounter difficulty in canceling or modifying an existing instruction, or if you wish to cancel an instruction that has already been sent, our [Securities Team](/actions/securities_agent) is available to assist you during operational hours. We facilitate updates to existing instructions to ensure flexibility in your trading strategy.
-The bank allows changing an instruction through the Instructions button on the [securities instructions page](https://app.tfd-bank.com/portfolio/securities/order-book) -> select an instruction line -> swipe right -> you see an option to cancel or edit an instruction.
+Should you encounter difficulty in canceling or modifying an existing instruction, or if you wish to cancel an instruction that has already been sent, our Securities Team is available to assist you during operational hours. We facilitate updates to existing instructions to ensure flexibility in your trading strategy.
+The bank allows changing an instruction through the Instructions button on the securities instructions page -> select an instruction line -> swipe right -> you see an option to cancel or edit an instruction.
 
 
 ### Mutual funds trading hours at TASE
@@ -142,7 +142,7 @@ Buy/sell orders in mutual funds are different from those for stocks. The bank al
 ## Instruction Statuses
 
 ### Understanding Instruction Statuses
-When managing your securities instructions, it's crucial to understand the various statuses they might hold. A pending status indicates a valid instruction that has yet to be executed, often due to factors such as failure to meet specified limits. If you've initiated a cancellation outside of trading hours and it's still pending once trading resumes, our [Securities Team](/actions/securities_agent) is available to assist you during business day's hours.
+When managing your securities instructions, it's crucial to understand the various statuses they might hold. A pending status indicates a valid instruction that has yet to be executed, often due to factors such as failure to meet specified limits. If you've initiated a cancellation outside of trading hours and it's still pending once trading resumes, our Securities Team is available to assist you during business day's hours.
 
 ### Instruction Execution and Rejection Statuses
 Once an instruction is executed, it means that a transaction has been completed between parties, fulfilling a buy or sell an instruction for a security. However, if an an instruction is rejected, it means it has been denied on the stock exchange for various reasons, and our team will investigate the matter during business day's hours.
@@ -169,7 +169,7 @@ Instructions might also be partially executed, either due to reaching a limit or
 ## Viewing Pending Instructions and Instruction History
 
 ### Accessing Pending Instructions, History and Information of securities
-To monitor your pending instructions and review their history, navigate to the [securities instructions page](https://app.tfd-bank.com/portfolio/securities/order-book) through the Securities page. There you can access the instructions section, you can find a summary of instructions and transactions pending execution, as well as their historical data, and access details about your investment portfolio. This includes details such as the security name, instructions status, action, price, quantity, average unit price, instruction value, fees, total value, instruction date, execution date, instruction ID number, and the account involved.
+To monitor your pending instructions and review their history, navigate to the securities instructions page through the Securities page. There you can access the instructions section, you can find a summary of instructions and transactions pending execution, as well as their historical data, and access details about your investment portfolio. This includes details such as the security name, instructions status, action, price, quantity, average unit price, instruction value, fees, total value, instruction date, execution date, instruction ID number, and the account involved.
 
 ## Debiting / Crediting Foreign Currency Accounts, Digital Currencies, Crypto Currencies, Transferring Investment Portfolio
 
@@ -178,7 +178,7 @@ When initiating transactions in mutual funds, you can use your ILS balance only.
 
 
 ### Investment Options and Policies for Digital Asset Exposure at the bank
-bank, in alignment with the bank's policy outlined on the website, provides access to ETF stocks that track digital currencies, which can be found in the Securities tab of the banking platform. These offerings allow customers to diversify their investment portfolios with exposure to digital assets. Additionally, bank does not support trading in digital currencies directly, but allows an option to trade ETFs that imitate digital currencies. This does not constitute a recommendation. Available securities for trading include stocks, ETFs, warrants, and select rights on the US stock exchange. Customers can choose whether to invest in ETFs that passively track market indices. You can view all ETFs that can be traded through the [securities store](https://app.tfd-bank.com/portfolio/securities/store).
+bank, in alignment with the bank's policy outlined on the website, provides access to ETF stocks that track digital currencies, which can be found in the Securities tab of the banking platform. These offerings allow customers to diversify their investment portfolios with exposure to digital assets. Additionally, bank does not support trading in digital currencies directly, but allows an option to trade ETFs that imitate digital currencies. This does not constitute a recommendation. Available securities for trading include stocks, ETFs, warrants, and select rights on the US stock exchange. Customers can choose whether to invest in ETFs that passively track market indices. You can view all ETFs that can be traded through the securities store.
 
 
 ### Available securities at TASE through the bank
@@ -186,7 +186,7 @@ For now, it is only possible to trade mutual funds like active funds and trackin
 
 
 ### Settlement Process and Support for Foreign and Israeli Securities and Account Credits
-Securities settlement in the United States and Israel operates on a T+1 cycle, where proceeds from the sale of securities usually appear in the account one business day after the execution date, except for Israeli mutual funds with exposure to foreign securities or foreign currency, which may settle after more than one business day. In case of delays or discrepancies in the crediting of funds, you can contact a [private banker](/actions/attach_agent) for assistance. Additionally, it's important to know that when you are buying or selling stock at US market you will get an option to choose between ILS account or USD account, except if you don’t have a USD account, then you will be charged or credited from the ILS account instead. Contact information for private bankers is available on the banking platform, and inquiries are typically addressed during the Securities Department's operating hours.
+Securities settlement in the United States and Israel operates on a T+1 cycle, where proceeds from the sale of securities usually appear in the account one business day after the execution date, except for Israeli mutual funds with exposure to foreign securities or foreign currency, which may settle after more than one business day. In case of delays or discrepancies in the crediting of funds, you can contact a private banker for assistance. Additionally, it's important to know that when you are buying or selling stock at US market you will get an option to choose between ILS account or USD account, except if you don’t have a USD account, then you will be charged or credited from the ILS account instead. Contact information for private bankers is available on the banking platform, and inquiries are typically addressed during the Securities Department's operating hours.
 
 ### Transfer of Securities Portfolio during Bank Migration
 Currently, the bank does not support the migration of securities portfolios from third-party accounts to bank accounts. The bank is actively working on implementing this feature to facilitate the seamless transfer of investment holdings for its customers. However, the bank does support the migration of portfolios from the bank accounts to third-party accounts.
@@ -194,7 +194,7 @@ Currently, the bank does not support the migration of securities portfolios from
 ## Securities That Doesn't Exist On The Bank Securities Store
 
 ### Foreign Securities That Doesn't Exist On The Bank Securities Store
-If you can't find securities stocks on the bank securities store and wish to consider adding them, you can contact the [securities team](/actions/attach_agent)
+If you can't find securities stocks on the bank securities store and wish to consider adding them, you can contact the securities team
 
 ### Trading BlackRock, Irish Funds, ISHARES Through the bank
 At this stage, bank cannot support trading in Irish funds that trade on TASE and cannot add this specific fund to the securities store of bank. Stay tuned for updates on the availability of Irish funds trading, which will be announced through official channels.
@@ -248,10 +248,10 @@ Currently, there are no investment portfolio management services offered. While 
 
 ### Trading System review
 Our trading system provides a robust platform equipped with advanced AI tools to support your investment decisions. You have access to real-time and delayed market data, allowing you to stay informed about stock performance. Whether you are buying or selling securities, our platform offers seamless transactions and comprehensive insights.
-Navigate to the Securities page and select Securities to view detailed insights into your holdings, including earnings or losses on individual stocks. By tapping into My Holdings inside the [securities page](https://app.tfd-bank.com/portfolio/securities), you can monitor changes in stock performance through metrics like Change from Buy or Daily Change. Utilize the Securities page to stay informed about your investment portfolio's value, stock quantities, and overall performance. Whether you are tracking AAPL or other stocks, the trading system offers comprehensive tools to help you make informed investment decisions.
+Navigate to the Securities page and select Securities to view detailed insights into your holdings, including earnings or losses on individual stocks. By tapping into My Holdings inside the securities page, you can monitor changes in stock performance through metrics like Change from Buy or Daily Change. Utilize the Securities page to stay informed about your investment portfolio's value, stock quantities, and overall performance. Whether you are tracking AAPL or other stocks, the trading system offers comprehensive tools to help you make informed investment decisions.
 
 ### Trends Section Overview
-Trends is an area inside the [securities store](https://app.tfd-bank.com/portfolio/securities/store) that shows the top 10 rising or falling stocks in percentage terms that day. Trends area will allow you to observe price volatility. The information presented in Trends area does not show investment advice or a buy or sell recommendation. The data of Trends area is updated to the last 3 seconds for customers receiving real-time information, while delayed customers will receive the data with a delay of up to 15 minutes. It's important to mention that the list of securities displayed on the Trends area are shares currently traded on bank.
+Trends is an area inside the securities store that shows the top 10 rising or falling stocks in percentage terms that day. Trends area will allow you to observe price volatility. The information presented in Trends area does not show investment advice or a buy or sell recommendation. The data of Trends area is updated to the last 3 seconds for customers receiving real-time information, while delayed customers will receive the data with a delay of up to 15 minutes. It's important to mention that the list of securities displayed on the Trends area are shares currently traded on bank.
 
 ### Trends Area Data Update Time
 The updates of the data in the Trends area depend on signing the declaration of securities trading at the bank:
@@ -270,7 +270,7 @@ Here is a list of securities trading issues our private bankers can help you wit
 * Understanding of nominal and realistic security values, along with instructions for buying securities
 * Availability of advanced trading systems and AI tools for investment decisions
 
-You can contact a [private banker](/actions/attach_agent) for help with budget management and financial solutions.
+You can contact a private banker for help with budget management and financial solutions.
 
 
 ## Market Hours
@@ -464,7 +464,7 @@ The Tel Aviv Stock Exchange is the only Stock Market in Israel. For now at TASE,
 
 ### Custodian Policy
 
-A custodian is someone who holds foreign securities for us in trust. If our custodian charges a fee for a certain customer activity, that charge will be passed on to the customer. The bank usually cannot know in advance about third-party commissions (unlike bank and broker fees where there is an agreement). The broker the bank works with is ViewTrade, and our custodian is Apex. The custodian policy can be found through [messages box](https://app.tfd-bank.com/portfolio/settings/inbox) -> custodian policy.
+A custodian is someone who holds foreign securities for us in trust. If our custodian charges a fee for a certain customer activity, that charge will be passed on to the customer. The bank usually cannot know in advance about third-party commissions (unlike bank and broker fees where there is an agreement). The broker the bank works with is ViewTrade, and our custodian is Apex. The custodian policy can be found through messages box -> custodian policy.
 
 
 ### Custodian Policy for Israeli Securities
@@ -476,7 +476,7 @@ The bank is a member of TASE, and securities trading is conducted directly with 
 ### General Information About The Store
 
 The store is the place to get acquainted with all the stocks available for trading through the bank by sectors. You can now explore properties Buy inside the bank app. The store can serve you in selecting stocks to trade of your choice from among our sectors.
-In the various sectors, the sorting of the presentation of shares is by market capitalization automatically. Separating the sectors allows viewing by population type of stocks that have a common sector. Also, you can view a large number of stocks in the store and even search for the stock you want. The store is updated in real time and you can also view the date and time of the update at the bottom of the page. You can enter the Store by clicking on the Securities page -> the [securities store](https://app.tfd-bank.com/portfolio/securities/store) button.
+In the various sectors, the sorting of the presentation of shares is by market capitalization automatically. Separating the sectors allows viewing by population type of stocks that have a common sector. Also, you can view a large number of stocks in the store and even search for the stock you want. The store is updated in real time and you can also view the date and time of the update at the bottom of the page. You can enter the Store by clicking on the Securities page -> the securities store button.
 
 
 ### Stocks Who Can Be Find In The Store
@@ -484,18 +484,18 @@ The store lists about 100 of the most popular stocks among bank traders and sort
 In addition, you can see what percentage of traders out of all traders own paper. You can view common stock trends, based on the rise or fall of the stock and its percentage. In addition, you can watch the trend of the most active stocks in the last 24 hours. You may trade through your bank on shares, ETFs, warrants and selected rights (obtained from corporate events only) traded on a U.S. stock exchange. If there is a stock you are interested in trading and it does not appear on the list of trading stocks, our private bankers are here for you.
 
 ### Securities Advice In The Store
-There is no investment advice in the bank, but you can use the decision support (AI-based) screens available at the bottom of the stock details in the app, inside the [securities store](https://app.tfd-bank.com/portfolio/securities/store). For premium subscription plan customers, a summary of a share analysis, financial summary and analysis of the business environment will appear.
+There is no investment advice in the bank, but you can use the decision support (AI-based) screens available at the bottom of the stock details in the app, inside the securities store. For premium subscription plan customers, a summary of a share analysis, financial summary and analysis of the business environment will appear.
 
 ## stocks news feed user guide
 
 ### Stocks Market News
-You can find news of stocks in your portfolio, on the Favorites page, in the store and in the bottom of the [securities page](https://app.tfd-bank.com/portfolio/securities). The stocks news is summarization and concise information of published articles on various financial websites for your use to save you from searching different sites. The stocks news displays in your screen is for the stocks you hold in your portfolio, and they arranged in order of publication, so the newest and most recent information will appear at the top of the list. The stocks news is On the Favorites page. you can find news on stocks for the stocks you marked as favorites. If you wish, you can read the original published articles by clicking on the Source button in the bottom of each. It is important to emphasize that not all companies are reviewed on the various websites and it is possible that there will be no updates on certain companies.
+You can find news of stocks in your portfolio, on the Favorites page, in the store and in the bottom of the securities page. The stocks news is summarization and concise information of published articles on various financial websites for your use to save you from searching different sites. The stocks news displays in your screen is for the stocks you hold in your portfolio, and they arranged in order of publication, so the newest and most recent information will appear at the top of the list. The stocks news is On the Favorites page. you can find news on stocks for the stocks you marked as favorites. If you wish, you can read the original published articles by clicking on the Source button in the bottom of each. It is important to emphasize that not all companies are reviewed on the various websites and it is possible that there will be no updates on certain companies.
 
 ### Stocks News Language
 Since the sources of the information are published in English, The abstract is published according to the original language.
 
 ### Stocks News Location In The Application
-You can find news of stocks in the bottom of the [securities page](https://app.tfd-bank.com/portfolio/securities).
+You can find news of stocks in the bottom of the securities page.
 
 ### Symbol Representation in Stocks News Summaries
 The symbols shown represent the companies mentioned in the abstract. The company, which constitutes the bulk of the articles at the base of the summary, will appear first from the left, while the other companies that appear in the title are companies that are mentioned in the articles at the base of the summary.
@@ -525,7 +525,7 @@ A stop-limit instruction requires setting two price points: the stop price and t
 Next, set the limit price. The limit price is the price at which you want to buy or sell the security. This price is used to limit the maximum price you will pay or the minimum price you will receive for the trade. A time frame must also be set during which the stop-limit instruction is considered executable.
 The stop-limit instruction will be executed at a specified price or better after a given stop price has been reached. Once the stop price is reached, the stop-limit instruction becomes a limit instruction to buy or sell at the limit price or better.
 However, it's important to note that there is a risk the instruction may not be executed. Therefore, it's crucial to carefully consider market conditions and your trading objectives before placing a stop-limit instruction.
-Trading with the Stop-Limit instruction is available through the [securities page](https://app.tfd-bank.com/portfolio/securities).
+Trading with the Stop-Limit instruction is available through the securities page.
 
 ### Modify or cancel Stop-Limit Instruction
 Modifying or canceling a Stop-Limit instruction is possible as long as it has not been executed. It is important to monitor your instruction and make adjustments as needed based on market conditions. The stop-limit instruction would remain open until the limit price is met or the instruction expires.
@@ -562,7 +562,7 @@ In a Stop-Loss (stop market) instruction, when the price triggers, a market inst
 ## AI Securities Reviews
 
 ### Information About The Weekly AI Securities Portfolio Reviews
-At the start of each week, users of the standard subscription plan and the premium subscription plan automatically receive a personal review of their stocks portfolio. The review includes updates on the previous trading week for the 10 stocks in the portfolio with the highest holding value. You can access the review by clicking on the Review button inside the [securities page](https://app.tfd-bank.com/portfolio/securities). It is important to mention that there is also an option to independently generate an AI securities reviews anytime for stocks you'd like to get a review about. Note that this review is for informational purposes only and does not constitute investment advice, taking into account your individual needs. You alone assume own responsibility for evaluating the merits and risks associated with using any information before making any decisions based on such a review.
+At the start of each week, users of the standard subscription plan and the premium subscription plan automatically receive a personal review of their stocks portfolio. The review includes updates on the previous trading week for the 10 stocks in the portfolio with the highest holding value. You can access the review by clicking on the Review button inside the securities page. It is important to mention that there is also an option to independently generate an AI securities reviews anytime for stocks you'd like to get a review about. Note that this review is for informational purposes only and does not constitute investment advice, taking into account your individual needs. You alone assume own responsibility for evaluating the merits and risks associated with using any information before making any decisions based on such a review.
 
 ### Generate Independently AI Securities Portfolio Reviews
 Users of the standard subscription plan and premium subscription plan can independently generate reviews.
@@ -598,7 +598,7 @@ According to the Tel Aviv Stock Exchange, the average cost of purchasing/selling
 
 
 ### Comparison of Israeli Mutual Funds Fees Between the bank and Other Banks in Israel
-According to the [Tel Aviv Stock Exchange](https://market.tase.co.il/he/market_data/trading_fees), the average cost of purchasing/selling securities at other banks listed on the website is 0.44% per transaction. Additionally, the average minimum fee for such a transaction is 24.83 USD, and the average maximum is 6,706.66 USD.
+According to the Tel Aviv Stock Exchange, the average cost of purchasing/selling securities at other banks listed on the website is 0.44% per transaction. Additionally, the average minimum fee for such a transaction is 24.83 USD, and the average maximum is 6,706.66 USD.
 In contrast, the advertised and average cost at the bank is 0.13% when averaging all subscription plans. Under the basic tariff, the cost is 0.3% of the transaction value with a minimum of 24 USD. The standard subscription plan has a commission of 0.1% of the transaction value with a minimum of 8 USD, while the premium subscription plan allows for 10 buy/sell transactions per month at no additional cost. The average minimum per transaction is 10.66 USD, with a maximum of 53.33 USD.
 Additionally, the average portfolio management and/or securities deposit fee at other banks is 0.51% per quarter, compared to 0% at the bank.
 
@@ -607,8 +607,8 @@ Additionally, the average portfolio management and/or securities deposit fee at 
 ### Investment Options Offered by the bank
 At the bank, there are several investment options available to you based on your decision:
 * Investment in Securities - Through the trading store in the bank's app (without advisory and investment management services in securities). The investment is solely at the customer's discretion.
-* Deposits Available at the Bank - Daily savings account, monthly savings account and annual savings account. The deposits are offered according to exit points and deposit methods at your discretion. You can view the [savings account page](https://app.tfd-bank.com/portfolio/ils/deposits).
-* Pension - There are tracks where you can invest in the capital market through pension products. Our [pension consultants](/actions/pension_agent) will be happy to assist you.
+* Deposits Available at the Bank - Daily savings account, monthly savings account and annual savings account. The deposits are offered according to exit points and deposit methods at your discretion. You can view the savings account page.
+* Pension - There are tracks where you can invest in the capital market through pension products. Our pension consultants will be happy to assist you.
 
 
 ## Standing Orders in Securities
