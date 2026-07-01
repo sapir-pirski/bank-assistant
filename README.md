@@ -275,7 +275,7 @@ docker compose run --rm bank-assistant python scripts/evaluate.py \
   --mode staged \
   --case-ids atm_fee_israel cash_deposit premium_plan_fees short_selling investment_advice \
   --output reports/evaluation_staged.json \
-  --markdown-output reports/EVALUATION.md
+  --markdown-output EVALUATION.md
 ```
 
 Run the full 81-combination grid:
@@ -288,7 +288,7 @@ docker compose run --rm bank-assistant python scripts/evaluate.py \
   --similarity-metrics cosine l2 ip \
   --top-ks 3 5 8 \
   --output reports/evaluation_full_81.json \
-  --markdown-output reports/EVALUATION_FULL_81.md
+  --markdown-output EVALUATION_FULL_81.md
 ```
 
 For fair similarity comparison, disable or calibrate distance filtering per metric. Cosine, L2, and inner product distances are not on the same scale.
