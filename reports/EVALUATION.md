@@ -12,7 +12,6 @@ Generated at: `2026-06-30T08:58:48.051967+00:00`
 - Similarity metrics: `cosine, l2, ip`
 - Top-k values: `3, 5, 8`
 - Evaluation questions: `5`
-- Raw JSON: `reports/evaluation_staged.json`
 
 The run used the staged strategy: first compare retrieval configurations with one LLM, then test the top retrieval configurations across all LLMs. This keeps cost bounded while still testing every requested dimension.
 
