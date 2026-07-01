@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
-  <title id="title">ONE ZERO Policy Assistant UI preview</title>
-  <desc id="desc">A preview of the chatbot interface with a policy answer and retrieved source cards.</desc>
+  <title id="title">Bank Assistant UI preview</title>
+  <desc id="desc">A preview of the anonymized Bank Assistant interface with a cited answer and retrieved source cards.</desc>
   <rect width="1280" height="720" fill="#f6f7f9"/>
   <rect x="32" y="28" width="1216" height="664" rx="18" fill="#ffffff" stroke="#d8dde4"/>
 
@@ -9,18 +9,18 @@
 
   <rect x="32" y="28" width="824" height="82" rx="18" fill="#ffffff"/>
   <line x1="32" y1="110" x2="856" y2="110" stroke="#d8dde4"/>
-  <text x="62" y="67" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#15171a">ONE ZERO Policy Assistant</text>
-  <text x="62" y="91" font-family="Inter, Arial, sans-serif" font-size="14" fill="#66707a">in_scope_simple / score 5 / tokens 2861 / demo</text>
+  <text x="62" y="67" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#15171a">Bank Assistant</text>
+  <text x="62" y="91" font-family="Inter, Arial, sans-serif" font-size="14" fill="#66707a">in_scope_simple / score 5 / tokens 2655 / Docker smoke</text>
 
   <rect x="72" y="146" width="560" height="74" rx="8" fill="#e6f4ee" stroke="#b9dfd0"/>
   <text x="96" y="178" font-family="Inter, Arial, sans-serif" font-size="18" fill="#15171a">What are the cash withdrawal fees from ATMs in Israel?</text>
 
   <rect x="72" y="248" width="730" height="238" rx="8" fill="#eef3f7" stroke="#d8dde4"/>
   <text x="96" y="284" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">Cash withdrawals from ATMs belonging to any bank in Israel</text>
-  <text x="96" y="314" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">are free of withdrawal fees with a ONE ZERO credit or debit card. [1]</text>
-  <text x="96" y="360" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">Private ATM companies may charge their own fees. If a fee is charged,</text>
-  <text x="96" y="390" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">it is charged by the ATM operator, not by ONE ZERO Bank. [1]</text>
-  <text x="96" y="436" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">The answer is grounded in retrieved policy chunks and includes citations.</text>
+  <text x="96" y="314" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">are free of withdrawal fees. [1]</text>
+  <text x="96" y="360" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">Private ATM companies may charge their own fees, so using</text>
+  <text x="96" y="390" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">a bank-run ATM connected to a branch is recommended. [1]</text>
+  <text x="96" y="436" font-family="Inter, Arial, sans-serif" font-size="19" fill="#15171a">If charged, the fee is from the ATM operator, not the bank. [1]</text>
 
   <rect x="72" y="604" width="610" height="58" rx="8" fill="#ffffff" stroke="#d8dde4"/>
   <text x="94" y="640" font-family="Inter, Arial, sans-serif" font-size="16" fill="#66707a">Ask about cards or securities policies</text>
@@ -34,22 +34,22 @@
 
   <rect x="886" y="138" width="332" height="136" rx="8" fill="#ffffff" stroke="#d8dde4"/>
   <text x="904" y="168" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#15171a">[1] data/cards.md</text>
-  <text x="1168" y="168" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#66707a">rel 0.85</text>
+  <text x="1168" y="168" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#66707a">rel 0.80</text>
   <text x="904" y="198" font-family="Inter, Arial, sans-serif" font-size="14" fill="#66707a">Cash Withdrawals &gt; ATM fees in Israel</text>
   <text x="904" y="232" font-family="Inter, Arial, sans-serif" font-size="14" fill="#15171a">Cash withdrawal from an ATM belonging</text>
   <text x="904" y="254" font-family="Inter, Arial, sans-serif" font-size="14" fill="#15171a">to any bank in Israel is free...</text>
 
   <rect x="886" y="298" width="332" height="136" rx="8" fill="#ffffff" stroke="#d8dde4"/>
   <text x="904" y="328" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#15171a">[2] data/cards.md</text>
-  <text x="1168" y="328" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#66707a">rel 0.77</text>
+  <text x="1168" y="328" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#66707a">rel 0.71</text>
   <text x="904" y="358" font-family="Inter, Arial, sans-serif" font-size="14" fill="#66707a">Cash Withdrawals &gt; Debit card limits</text>
   <text x="904" y="392" font-family="Inter, Arial, sans-serif" font-size="14" fill="#15171a">The daily limit for cash withdrawal</text>
   <text x="904" y="414" font-family="Inter, Arial, sans-serif" font-size="14" fill="#15171a">from ATM with debit card...</text>
 
   <rect x="886" y="458" width="332" height="136" rx="8" fill="#ffffff" stroke="#d8dde4"/>
   <text x="904" y="488" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#15171a">[3] data/cards.md</text>
-  <text x="1168" y="488" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#66707a">rel 0.74</text>
-  <text x="904" y="518" font-family="Inter, Arial, sans-serif" font-size="14" fill="#66707a">Cash Withdrawals &gt; Credit card limits</text>
-  <text x="904" y="552" font-family="Inter, Arial, sans-serif" font-size="14" fill="#15171a">The daily limit for cash withdrawal</text>
-  <text x="904" y="574" font-family="Inter, Arial, sans-serif" font-size="14" fill="#15171a">from ATM with credit card...</text>
+  <text x="1168" y="488" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#66707a">rel 0.68</text>
+  <text x="904" y="518" font-family="Inter, Arial, sans-serif" font-size="14" fill="#66707a">Cash Withdrawals &gt; Withdrawal failures</text>
+  <text x="904" y="552" font-family="Inter, Arial, sans-serif" font-size="14" fill="#15171a">Handling failures differs between</text>
+  <text x="904" y="574" font-family="Inter, Arial, sans-serif" font-size="14" fill="#15171a">ATMs in Israel and abroad...</text>
 </svg>

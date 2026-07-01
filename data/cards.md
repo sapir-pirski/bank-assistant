@@ -1,4 +1,4 @@
-# ONE ZERO Bank Guide on Card Usage and Services
+# Bank Guide on Card Usage and Services
 
 ## Using the mobile application
 
@@ -24,12 +24,12 @@ A few important things you should know before traveling:
 * Transaction confirmation messages are sent only via SMS to the mobile number registered with the credit card company. Therefore, it is advisable to update the credit card company with your current number before traveling.
 * It is also recommended to remember the PIN code if you wish to withdraw funds.
 * We also recommend reviewing your subscription plan before you travel as there are subscription plans that grant you benefits in foreign-currency transactions:
-  * In the ONE subscription plan and ONE PLUS subscription plan, no conversion fees will be charged for transactions made with the card.
-  * In ONE subscription plan and ONE PLUS subscription plan, only when withdrawing foreign currency abroad, a withdrawal fee of 2% of the withdrawal amount will be charged.
-  * On the ZERO subscription plan, a 2% commission is charged for foreign currency card transactions.
-  * On the ZERO subscription plan, a 3% fee will be charged for foreign currency ATM withdrawals, both in Israel and abroad.
+  * In the standard subscription plan and premium subscription plan, no conversion fees will be charged for transactions made with the card.
+  * In standard subscription plan and premium subscription plan, only when withdrawing foreign currency abroad, a withdrawal fee of 2% of the withdrawal amount will be charged.
+  * On the basic subscription plan, a 2% commission is charged for foreign currency card transactions.
+  * On the basic subscription plan, a 3% fee will be charged for foreign currency ATM withdrawals, both in Israel and abroad.
 
-If you are on the ZERO subscription plan, you might want to consider upgrading to the ONE subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan) before you travel, to enjoy benefits abroad including foreign-currency transactions at with no exchange fees.
+If you are on the basic subscription plan, you might want to consider upgrading to the standard subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan) before you travel, to enjoy benefits abroad including foreign-currency transactions at with no exchange fees.
 
 
 
@@ -47,9 +47,9 @@ The insurance is on behalf of AIG for five days. The benefit is given to Israeli
 
 ## Cash Withdrawals
 
-### Cash withdrawal fees from ATMs in Israel using ONE ZERO credit card or debit card
+### Cash withdrawal fees from ATMs in Israel using bank credit card or debit card
 
-Cash withdrawal from an ATM belonging to any bank in Israel is free of withdrawal fees. Private ATMs companies charge their own fees, therefore, we recommend that you withdraw cash from bank-run ATMs connected to a branch in order to avoid these fees. It is not possible to withdraw money without a card. If you withdrew cash from an ATM with operating or third-party fees, then the fee is from the ATM operator, not ONE ZERO bank.
+Cash withdrawal from an ATM belonging to any bank in Israel is free of withdrawal fees. Private ATMs companies charge their own fees, therefore, we recommend that you withdraw cash from the bank-run ATMs connected to a branch in order to avoid these fees. It is not possible to withdraw money without a card. If you withdrew cash from an ATM with operating or third-party fees, then the fee is from the ATM operator, not the bank.
 
 
 
@@ -61,17 +61,17 @@ Handling failures in ATM withdrawals differs between ATMs in Israel and those ab
 
 
 
-### Cash Withdrawals limit using ONE ZERO Credit Card
+### Cash Withdrawals limit using bank Credit Card
 
-The daily limit for cash withdrawal from ATM with ONE ZERO bank's Credit Card is different between withdrawals abroad and withdrawals inside Israel's borders:
-* Withdrawal from ATM inside Israel borders with Credit Card - With your ONE ZERO bank credit card, you can withdraw cash up to 10,000 ILS per day from any ATM inside Israel borders. If you can not withdraw all 10,000 ILS at once, you can probably do it in two strokes. The daily withdrawal limit in one stroke on your credit card is 8,000 ILS. However, there is a fee for withdrawals from a private ATM that will be charged to the ATM company. We recommend that you withdraw cash from bank-run ATMs connected to a branch. Notice that there is no cash withdrawal without the bank card.
-* Withdrawal from ATM abroad with a Credit Card - With your ONE ZERO bank credit card, your cash withdrawal limitation from ATM abroad is based on your credit card's lines of credit. As long as your credit card's lines of credit isn't completed, you can keep use it to withdraw cash from ATMs abroad.
+The daily limit for cash withdrawal from ATM with the bank's credit card is different between withdrawals abroad and withdrawals inside Israel's borders:
+* Withdrawal from ATM inside Israel borders with Credit Card - With your bank credit card, you can withdraw cash up to 10,000 ILS per day from any ATM inside Israel borders. If you can not withdraw all 10,000 ILS at once, you can probably do it in two strokes. The daily withdrawal limit in one stroke on your credit card is 8,000 ILS. However, there is a fee for withdrawals from a private ATM that will be charged to the ATM company. We recommend that you withdraw cash from the bank-run ATMs connected to a branch. Notice that there is no cash withdrawal without the bank card.
+* Withdrawal from ATM abroad with a Credit Card - With your bank credit card, your cash withdrawal limitation from ATM abroad is based on your credit card's lines of credit. As long as your credit card's lines of credit isn't completed, you can keep use it to withdraw cash from ATMs abroad.
 
 
 
-### Cash Withdrawals limit using ONE ZERO Debit Card
+### Cash Withdrawals limit using bank Debit Card
 
-The daily limit for cash withdrawal from ATM with ONE ZERO bank's Debit Card is different between withdrawals abroad and withdrawals inside Israel's borders:
+The daily limit for cash withdrawal from ATM with the bank's debit card is different between withdrawals abroad and withdrawals inside Israel's borders:
 * Withdrawal from ATM inside Israel borders with Debit Card - You can make purchases of up to 3,000 ILS per single transaction and to withdraws up to 5,000 ILS per day from any ATM inside Israel borders. For purchases exceeding 3,000 ILS on the debit card, therefore you will have to ask the merchant to split the bill into two payments.
 * Withdrawal from ATM abroad with a Debit Card - You can withdraw up to 3,000 ILS per day from ATMs abroad, as long as there is remaining balance in your account.
 
@@ -85,7 +85,7 @@ If you tried to make a withdrawal and were charged twice, or received a differen
 
 ### Depositing cash
 
-At this time, cash deposits are still not possible to ONE ZERO Bank accounts. However, the bank is working on making cash deposits possible and will update all customers as soon as it becomes possible. You can transfer money into your account from an account in another bank and deposit cheques.
+At this time, cash deposits are still not possible to bank accounts. However, the bank is working on making cash deposits possible and will update all customers as soon as it becomes possible. You can transfer money into your account from an account in another bank and deposit cheques.
 
 
 
@@ -94,7 +94,7 @@ At this time, cash deposits are still not possible to ONE ZERO Bank accounts. Ho
 ### Card shipping companies and delivery time and identification
 
 You can view the card delivery details only when ordering the card. At any other time, this information can be obtained by contacting a [private banker](/actions/attach_agent).
-The cards at ONE ZERO Bank are sent to customers via a service called Quick to Mailbox in partnership with Israel Post. With this service, the card you ordered will be sent directly to your mailbox according to your updated mailing address in the bank's systems. The card will be sent within 7 business days. Once the card arrives, you will receive an SMS indicating that the card is waiting for you in your mailbox. Only after you collect it will you be able to activate it through the bank's application or with Isracard, at your choice.
+The cards at the bank are sent to customers via a service called Quick to Mailbox in partnership with Israel Post. With this service, the card you ordered will be sent directly to your mailbox according to your updated mailing address in the bank's systems. The card will be sent within 7 business days. Once the card arrives, you will receive an SMS indicating that the card is waiting for you in your mailbox. Only after you collect it will you be able to activate it through the bank's application or with Isracard, at your choice.
 
 
 
@@ -140,7 +140,7 @@ If you received a card with spelling errors, to correct the writing with the cre
 ### Replacing a card
 
 If your credit card or debit card from Isracard is lost, stolen or damaged, you can request a replacement. Log in to your Isracard account and navigate to the Cards page. Select the option to cancel the old card and order a new one. Depending on your subscription plan, there might be a fee for immediate replacement. The new card will be delivered to your address within a specific time frame. Remember to activate the new card as soon as you receive it to ensure uninterrupted usage. If your credit card has been blocked, you can request a debit card instead. To order a new debit card, access the cards page in the application, choose to order a new card, and there you will have the option of issuing a new debit card if you do not already have one in your account.
-If you want to replace a card you received, there is a cost of 10 ILS for a regular order and 40 ILS for an immediate issuance for customers on the ZERO subscription plan. Customers on the ONE subscription plan and ONE PLUS subscription plan do not have to pay this fee as part of the expanded fee exemption subscription plan. To order a card, go to the Cards page, tap on Order and then choose to order a New Card. You can order a replacement card from the [cards page](https://app.tfd-bank.com/portfolio/cards). For further assistance, contact a [private banker](/actions/attach_agent).
+If you want to replace a card you received, there is a cost of 10 ILS for a regular order and 40 ILS for an immediate issuance for customers on the basic subscription plan. Customers on the standard subscription plan and premium subscription plan do not have to pay this fee as part of the expanded fee exemption subscription plan. To order a card, go to the Cards page, tap on Order and then choose to order a New Card. You can order a replacement card from the [cards page](https://app.tfd-bank.com/portfolio/cards). For further assistance, contact a [private banker](/actions/attach_agent).
 
 
 
@@ -167,7 +167,7 @@ In a joint account, only the account holder can request and receive a new card f
 
 
 
-### Ordering a using non-bank cards with ONE ZERO
+### Ordering a using non-bank cards with the bank
 
 A non-bank card is issued by the external credit company. At the bank, we do not issue a non-bank card. You can also link non-bank cards to our bank account so that it is convenient for you to view all expected charges in one place. If you have specific questions about card issuance limitations, contact a [private banker](/actions/attach_agent) for clarification.
 
@@ -197,7 +197,7 @@ You can sign up to the text message (SMS) transaction detail service by the cred
 
 ### Insights on Card Usage
 
-Customers of the ONE subscription plan and ONE PLUS subscription plan receive insights about credit card activity, such as double charges, summary of card expenses at the time of debit, percentage of credit limit utilization on the card, the first and last installments for payments payed in installments - we proactively keep our customers informed. Insights are available on our ONE subscription plan and ONE PLUS subscription plan. You can contact a [private banker](/actions/attach_agent) for assistance. You can upgrade your subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan). We are working hard to create a monthly summary by categories and by card types that you hold with various credit providers within the line of credit of open banking. At this stage, you can only see the details of your expenses and charges on the Isracard website.
+Customers of the standard subscription plan and premium subscription plan receive insights about credit card activity, such as double charges, summary of card expenses at the time of debit, percentage of credit limit utilization on the card, the first and last installments for payments payed in installments - we proactively keep our customers informed. Insights are available on our standard subscription plan and premium subscription plan. You can contact a [private banker](/actions/attach_agent) for assistance. You can upgrade your subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan). We are working hard to create a monthly summary by categories and by card types that you hold with various credit providers within the line of credit of open banking. At this stage, you can only see the details of your expenses and charges on the Isracard website.
 
 
 
@@ -211,9 +211,9 @@ Transactions that are charged directly from a checking account are sometimes tra
 
 ### Card Transactions in Foreign Currency (credit cards and debit cards)
 
-On the ZERO subscription plan, a 2% foreign currency conversion commissions is charged for card transactions.
-On the ONE subscription plan and the ONE PLUS subscription plan, customers are exempt from the foreign currency conversion fee for card transactions.
-ONE subscription and ONE PLUS subscription are exempt from commissions for all currencies, with the exchange taking place from the ILS account and based on the type of currency.
+On the basic subscription plan, a 2% foreign currency conversion commissions is charged for card transactions.
+On the standard subscription plan and the premium subscription plan, customers are exempt from the foreign currency conversion fee for card transactions.
+standard subscription and premium subscription are exempt from commissions for all currencies, with the exchange taking place from the ILS account and based on the type of currency.
 Card transactions will appear on the [cards page](https://app.tfd-bank.com/portfolio/cards) after the transaction is registered. Registering credit card transactions in Israel takes about 3 business days, and registering transactions made abroad takes about 5 business days.
 
 
@@ -227,23 +227,23 @@ Currently, our cards are linked on to our ILS accounts, it is not possible to li
 ### Foreign Currency fees by subscription plans
 
 Here are the foreign currency exchange fees by subscription plan:
-* Customers on the ONE subscription and ONE PLUS subscription enjoy an exemption from foreign-currency exchange fees on the card when purchasing foreign currency from the ILS account and are also entitled to an exemption from exchange fees for withdrawing foreign currency from ATMs in Israel, although ATM operator fees may apply. Additionally, a withdrawal fee of 2% will be charged for ATM withdrawals abroad for customers on the ONE subscription plan and ONE PLUS subscription plan (ATM operator fees may also apply).
-* Customers on the ZERO subscription plan pay a 3% exchange fee on foreign-currency withdrawals (plus any ATM operator fees) and 2% exchange fees on card transactions.
+* Customers on the standard subscription and premium subscription enjoy an exemption from foreign-currency exchange fees on the card when purchasing foreign currency from the ILS account and are also entitled to an exemption from exchange fees for withdrawing foreign currency from ATMs in Israel, although ATM operator fees may apply. Additionally, a withdrawal fee of 2% will be charged for ATM withdrawals abroad for customers on the standard subscription plan and premium subscription plan (ATM operator fees may also apply).
+* Customers on the basic subscription plan pay a 3% exchange fee on foreign-currency withdrawals (plus any ATM operator fees) and 2% exchange fees on card transactions.
 
 
 
-### Fees on Foreign Currency card transactions on Cards for ONE subscription plan and ONE PLUS subscription plan
+### Fees on Foreign Currency card transactions on Cards for standard subscription plan and premium subscription plan
 
-On the ONE subscription plan and ONE PLUS subscription plan you enjoy from a few foreign currency benefits by using your ONE ZERO bank's debit card or credit card:
-* In the ONE subscription plan and ONE PLUS subscription plan, no conversion fees will be charged for transactions made with the card.
-* In the ONE subscription plan and ONE PLUS subscription plan, only when withdrawing foreign currency abroad, a withdrawal fee of 2% of the withdrawal amount will be charged.
+On the standard subscription plan and premium subscription plan you enjoy from a few foreign currency benefits by using your the bank's debit card or credit card:
+* In the standard subscription plan and premium subscription plan, no conversion fees will be charged for transactions made with the card.
+* In the standard subscription plan and premium subscription plan, only when withdrawing foreign currency abroad, a withdrawal fee of 2% of the withdrawal amount will be charged.
 
 
 
-### Fees on Foreign Currency card transactions on Cards for ZERO subscription plan
+### Fees on Foreign Currency card transactions on Cards for basic subscription plan
 
-On the ZERO subscription plan, a 2% commission is charged for foreign currency card transactions.
-In contrast, both the ONE subscription and ONE PLUS subscription plan have no fees for foreign currency exchange transactions with a ONE ZERO card. You can upgrade your subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan) on your own in the app.
+On the basic subscription plan, a 2% commission is charged for foreign currency card transactions.
+In contrast, both the standard subscription and premium subscription plan have no fees for foreign currency exchange transactions with a bank card. You can upgrade your subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan) on your own in the app.
 
 
 
@@ -257,7 +257,7 @@ The existing foreign currency line of credit in your account is linked to the IL
 
 ### Credit card and Debit Card Benefits for Different Subscription Plans
 
-With the ONE subscription plan and ONE PLUS subscription plan, you will enjoy an exemption from foreign currency fees on transactions made with ONE ZERO bank's credit card. ONE ZERO bank's credit cards and debit cards are the only cards without foreign currency fees for transactions.
+With the standard subscription plan and premium subscription plan, you will enjoy an exemption from foreign currency fees on transactions made with the bank's credit card. The bank's credit cards and debit cards are the only cards without foreign currency fees for transactions.
 All our customers are entitled to a host of benefits on the credit card, including:
 * free overseas travel insurance
 * 1+1 benefits
@@ -272,7 +272,7 @@ Benefits can be viewed on the [Isracard website](https://digital.isracard.co.il/
 
 ### Laufer VIP Services
 
-Guests can enjoy VIP services at Ben Gurion Airport through Laufer. This offer provides a discount on VIP services at Ben Gurion Airport. With Laufer's VIP service, you can experience a unique and relaxed service at the airport. A company representative will assist you with efficient passage through all stations, including security checks, check-in, hand luggage processing, border control, and the boarding gate. The service allows you to arrive at the airport about two hours before your flight. To redeem the Laufer VIP offer, enter the coupon code "ONEZERO" on the [company website](https://www.laufer.group/he/%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-vip/). The benefit is valid until December 31st, 2025. Our customers save hundreds or even thousands of shekels a year on foreign currency conversions and purchases. You can upgrade your subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan).
+Guests can enjoy VIP services at Ben Gurion Airport through Laufer. This offer provides a discount on VIP services at Ben Gurion Airport. With Laufer's VIP service, you can experience a unique and relaxed service at the airport. A company representative will assist you with efficient passage through all stations, including security checks, check-in, hand luggage processing, border control, and the boarding gate. The service allows you to arrive at the airport about two hours before your flight. To redeem the Laufer VIP offer, enter the coupon code "BANK" on the [company website](https://www.laufer.group/he/%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-vip/). The benefit is valid until December 31st, 2025. Our customers save hundreds or even thousands of shekels a year on foreign currency conversions and purchases. You can upgrade your subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan).
 
 
 
@@ -280,7 +280,7 @@ Guests can enjoy VIP services at Ben Gurion Airport through Laufer. This offer p
 
 ### Card Usage Restrictions
 
-According to the policy of the Isracard Group and American Express, it is currently not possible to carry out transactions for the purchase of virtual currencies (cryptocurrencies) or transactions that are received as bank transfers. Beyond the signed credit card agreement, which can be seen through [messages box](https://app.tfd-bank.com/portfolio/settings/inbox), there is a [credit card usage instructions page](https://www.onezerobank.com/warehouse/userUploadFiles/Image/%D7%94%D7%A0%D7%97%D7%99%D7%95%D7%AA%20%D7%9C%D7%A9%D7%99%D7%9E%D7%95%D7%A9%20%D7%91%D7%9B%D7%A8%D7%98%D7%99%D7%A1%20%D7%94%D7%90%D7%A9%D7%A8%D7%90%D7%99%20-%2011.2.21%20%284%29.pdf) on the bank's website.
+According to the policy of the Isracard Group and American Express, it is currently not possible to carry out transactions for the purchase of virtual currencies (cryptocurrencies) or transactions that are received as bank transfers. Beyond the signed credit card agreement, which can be seen through [messages box](https://app.tfd-bank.com/portfolio/settings/inbox), there is a [credit card usage instructions page](https://example-bank.invalid/credit-card-usage-instructions.pdf) on the bank's website.
 
 
 
@@ -343,7 +343,7 @@ A billing day corresponds to when the credit card is charged. On this date, all 
 
 ### Changing Billing Day of Month
 
-You can change your billing day by entering the service area of the [credit card company](https://digital.isracard.co.il/personalarea/Login/?returnUrl=https:/service.isracard.co.il/isracard/isracard%3FreqName%3DChangePayDay_105), identifying yourself, and choosing the next billing date. If your card is charged before your salary is paid, causing discrepancies in payment and even an unarranged overdraft in your account, you have the option to change the card's billing day to a more convenient time. The existing billing days at ONE ZERO Bank are: 2, 10, 15, 20. It is important to know that the next billing date will appear for the first time after completion of the current month and completion of a full consecutive month. This means that if you choose to change your billing date on January 15, the change will only begin in March of that year. If you want to change the billing day, contact a [private banker](/actions/attach_agent). It is recommended to know your billing day and prepare for it every month. You can view your billing day on the [cards page](https://app.tfd-bank.com/portfolio/cards).
+You can change your billing day by entering the service area of the [credit card company](https://digital.isracard.co.il/personalarea/Login/?returnUrl=https:/service.isracard.co.il/isracard/isracard%3FreqName%3DChangePayDay_105), identifying yourself, and choosing the next billing date. If your card is charged before your salary is paid, causing discrepancies in payment and even an unarranged overdraft in your account, you have the option to change the card's billing day to a more convenient time. The existing billing days at the bank are: 2, 10, 15, 20. It is important to know that the next billing date will appear for the first time after completion of the current month and completion of a full consecutive month. This means that if you choose to change your billing date on January 15, the change will only begin in March of that year. If you want to change the billing day, contact a [private banker](/actions/attach_agent). It is recommended to know your billing day and prepare for it every month. You can view your billing day on the [cards page](https://app.tfd-bank.com/portfolio/cards).
 
 
 
@@ -363,19 +363,19 @@ It is recommended to know your billing day and prepare for it every month. Once 
 
 ### Card Types and Benefits
 
-ONE ZERO bank credit card holders enjoy benefits on the tenth of each month when using the ONE ZERO bank credit card. All the great discounts online and in stores in Israel and abroad can be found on [Mastercard's website](https://www.mastercard.co.il/he-il/personal/offers-and-promotions/mastercard-day.html). To enjoy these benefits, go to the website using the link, where you will find a list of websites and stores with all the full details. Choose a store and enjoy discounts on every purchase made on the tenth of every month. Mastercard Day is a benefit for ONE ZERO Bank credit card holders on the tenth of each month.
+bank credit card holders enjoy benefits on the tenth of each month when using the bank credit card. All the great discounts online and in stores in Israel and abroad can be found on [Mastercard's website](https://www.mastercard.co.il/he-il/personal/offers-and-promotions/mastercard-day.html). To enjoy these benefits, go to the website using the link, where you will find a list of websites and stores with all the full details. Choose a store and enjoy discounts on every purchase made on the tenth of every month. Mastercard Day is a benefit for bank credit card holders on the tenth of each month.
 
 
 
 ### TOPCASH
 
-The bank cards have a cashback benefit called TOPCASH for card purchases based on the list of stores and brands displayed on the site. To take advantage of this benefit, we recommend [Download browser extension](https://chrome.google.com/webstore/detail/topcash/mpfgfcgaecedikelhdfgjknikdhfdbhb?hl=iw). After registration, the list of sites for purchase will appear, you can choose the store where you want to shop, make a purchase on the store's website and the cashback will be automatically made to the account. The cashback will be bade to the account at the end of each calendar month on the last day of the month. Credit card transactions in installments will be from billing date to billing date, and the cashback will be made on the last day of the month. With a debit card, the cash back will be made based on transactions made that month. You will receive an email informing you of the cashback amount received. Isracard offers the TOPCASH benefit to holders of a ONE ZERO bank card, of any type. The benefit entitles you to a card refund on online purchases from participating businesses. To redeem the TOPCASH benefit, register to [TOPCASH](https://onezero.topcash.co.il/), select the desired store and make a purchase on the site using your bank card.
+The bank cards have a cashback benefit called TOPCASH for card purchases based on the list of stores and brands displayed on the site. To take advantage of this benefit, we recommend [Download browser extension](https://chrome.google.com/webstore/detail/topcash/mpfgfcgaecedikelhdfgjknikdhfdbhb?hl=iw). After registration, the list of sites for purchase will appear, you can choose the store where you want to shop, make a purchase on the store's website and the cashback will be automatically made to the account. The cashback will be bade to the account at the end of each calendar month on the last day of the month. Credit card transactions in installments will be from billing date to billing date, and the cashback will be made on the last day of the month. With a debit card, the cash back will be made based on transactions made that month. You will receive an email informing you of the cashback amount received. Isracard offers the TOPCASH benefit to holders of a bank card, of any type. The benefit entitles you to a card refund on online purchases from participating businesses. To redeem the TOPCASH benefit, register to [TOPCASH](https://topcash.co.il/), select the desired store and make a purchase on the site using your bank card.
 
 
 
 ### Frequent Flyer Miles
 
-Our bank cards are not associated with a specific program such as the El Al frequent flyer program - a FLY CARD. The frequent flyer program on our credit cards ended on April 30, 2023, and is not renewing.
+Our Bank cards are not associated with a specific program such as the El Al frequent flyer program - a FLY CARD. The frequent flyer program on our credit cards ended on April 30, 2023, and is not renewing.
 
 
 
@@ -417,7 +417,7 @@ A frozen card cannot be used until the card is unfrozen. When a card is frozen, 
 ### Disputing Charges and Transactions
 
 If you notice unauthorized or fraudulent charges on your credit card statement, it is crucial to act promptly. Immediately report them to your credit card issuer for clarification. Your issuer might temporarily credit your account while conducting the clarification. In order to handle the issue, we would appreciate it if you could send us documents or any additional documentation that is relevant to the charge you did not identify. You can contact the merchant directly to request a refund according to their refund policy.
-If the merchant is unable or unwilling to process the refund, you can initiate a [charge back through Isracard](https://digital.isracard.co.il/personalarea/Login/?returnUrl=https%3A%2F%2Fweb.isracard.co.il%2Fcardcancellation) for ONE ZERO cards or the card issuer of your external card for non-bank cards. Work closely with your issuer to resolve the dispute and ensure that any fraudulent activity is addressed promptly.
+If the merchant is unable or unwilling to process the refund, you can initiate a [charge back through Isracard](https://digital.isracard.co.il/personalarea/Login/?returnUrl=https%3A%2F%2Fweb.isracard.co.il%2Fcardcancellation) for bank cards or the card issuer of your external card for non-bank cards. Work closely with your issuer to resolve the dispute and ensure that any fraudulent activity is addressed promptly.
 If needed, you can contact a [private banker](/actions/attach_agent) who will be happy to assist you on this issue.
 
 
@@ -426,7 +426,7 @@ If needed, you can contact a [private banker](/actions/attach_agent) who will be
 
 ### Online payments
 
-When paying online with a ONE ZERO card, you will often be asked to enter a 4-digit code that you receive from Isracard in a text message for security confirmation.
+When paying online with a bank card, you will often be asked to enter a 4-digit code that you receive from Isracard in a text message for security confirmation.
 
 
 
@@ -436,11 +436,11 @@ Credit card charges appear 48 hours after the transaction and are deducted from 
 
 
 
-## Non-bank Cards (External Cards)
+## Non-bank cards (External Cards)
 
 ### Bank Cards vs. Non-bank cards comparison
 
-If a card is issued by us, it is a bank card. Non-bank cards are cards issued outside the bank by various credit card companies and not through the bank. You can consider issuing a credit card in our app and enjoy the many benefits of having ONE ZERO bank card. There are non-bank cards, which can be ordered directly from the credit card company. It can be ordered from Isracard or other credit card companies for employees in organizations and workplaces that offers benefits for flying abroad, special conditions, branding and more. A non-bank card is not a bank account. More information about Isracard's corporate card can be found on [Isracard's corporate page](https://marketing.isracard.co.il/clubs/corporate/). Credit card companies provide non-bank services such as financial services, including credit card issuance, clearing services, loans, credit solutions and payment options. These companies provide world-class services to local credit card companies such as Isracard, Max and Cal. A non-bank card can be associated with any bank account you have and from which you want to deduct the card payment. Cards of this type have a line of credit set by the credit card company based on their judgment. On the card's billing day, an instruction is sent to download the charges received on the card to the bank account with which it is associated. For a non-bank card that charges your account with us, on the day the card is charged you must ensure that you have sufficient balance in the account in order to charge the authorization. On a bank card, the full account number appears on the back of the card at the bottom, below the card number. A bank card is a card issued by the credit card company that works with the bank and is debited from the account from which it was issued. This type of card has many advantages with affordable benefits and convenient viewing of data without the need to go to the credit card company's website. With a bank credit card, the credit line is set by the bank itself and not by the credit card company in order to optimize the adjustment to your needs. The bank works with Isracard for the benefit of bank cards. The credit cards issued by Isracard at the bank are debit cards and platinum credit cards. The charges and information on the credit cards are visible to the cardholder, who can view all the charges and their details in the bank application and at the credit card company.
+If a card is issued by us, it is a bank card. Non-Bank cards are cards issued outside the bank by various credit card companies and not through the bank. You can consider issuing a credit card in our app and enjoy the many benefits of having a bank card. There are non-bank cards, which can be ordered directly from the credit card company. It can be ordered from Isracard or other credit card companies for employees in organizations and workplaces that offers benefits for flying abroad, special conditions, branding and more. A non-bank card is not a bank account. More information about Isracard's corporate card can be found on [Isracard's corporate page](https://marketing.isracard.co.il/clubs/corporate/). Credit card companies provide non-bank services such as financial services, including credit card issuance, clearing services, loans, credit solutions and payment options. These companies provide world-class services to local credit card companies such as Isracard, Max and Cal. A non-bank card can be associated with any bank account you have and from which you want to deduct the card payment. Cards of this type have a line of credit set by the credit card company based on their judgment. On the card's billing day, an instruction is sent to download the charges received on the card to the bank account with which it is associated. For a non-bank card that charges your account with us, on the day the card is charged you must ensure that you have sufficient balance in the account in order to charge the authorization. On a bank card, the full account number appears on the back of the card at the bottom, below the card number. A bank card is a card issued by the credit card company that works with the bank and is debited from the account from which it was issued. This type of card has many advantages with affordable benefits and convenient viewing of data without the need to go to the credit card company's website. With a bank credit card, the credit line is set by the bank itself and not by the credit card company in order to optimize the adjustment to your needs. The bank works with Isracard for the benefit of bank cards. The credit cards issued by Isracard at the bank are debit cards and platinum credit cards. The charges and information on the credit cards are visible to the cardholder, who can view all the charges and their details in the bank application and at the credit card company.
 
 
 
@@ -455,18 +455,18 @@ You can link non-bank cards on their provider websites:
 * [Link American Express cards](https://he.americanexpress.co.il/personalarea/login/?returnUrl=http%3A%2F%2Fhe.americanexpress.co.il%2Fpersonalarea%2Fagreementmanagement%2F).
 * [Link Cal cards](https://www.cal-online.co.il/about/legal-reports/open-banking/).
 
-I also recommend you to share your non-bank card information to ONE ZERO bank account through the open banking service and view the total charges you have on non-bank cards with all credit card companies through ["my capital" page](https://app.tfd-bank.com/portfolio/settings/obi-as-tpp).
+I also recommend you to share your non-bank card information to the bank account through the open banking service and view the total charges you have on non-bank cards with all credit card companies through ["my capital" page](https://app.tfd-bank.com/portfolio/settings/obi-as-tpp).
 
 
 ### Remove Non-Bank Card From Cards Page In The App
 
-To remove a non-bank card from being visible the ONE ZERO Bank's card page you need to cancel its view authorization through the card's issuing company.
+To remove a non-bank card from being visible the bank's card page you need to cancel its view authorization through the card's issuing company.
 
 
 
 ### Advantages of a bank card
 
-Bank cards are free of charge. All customers are entitled to a variety of credit card benefits, including: free travel insurance, 1+1 benefits (for credit card holders, subject to card use), TOPCASH and more. For bank cards, ONE subscription plan and ONE PLUS subscription plan customers are exempt from currency conversion fees on purchases abroad with ONE ZERO Bank Cards. You can upgrade your subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan).
+Bank cards are free of charge. All customers are entitled to a variety of credit card benefits, including: free travel insurance, 1+1 benefits (for credit card holders, subject to card use), TOPCASH and more. For bank cards, standard subscription plan and premium subscription plan customers are exempt from currency conversion fees on purchases abroad with the bank cards. You can upgrade your subscription plan through the [subscription plans page](https://app.tfd-bank.com/portfolio/settings/selectPlan).
 
 
 
@@ -511,7 +511,7 @@ To update your card on Spotify, first, [sign in to your account](https://www.spo
 
 ### Connect to external apps - Apple service
 
-If you are using an Apple device (like an iPhone) update your payment method on your Apple ID. To update your card across Apple services from your previous one to your ONE ZERO BANK card, go to your Apple device settings (iPhone or iPad for example) and follow these steps: Device settings -> select your name -> "Payment and Shipping" -> "Add Payment Method" -> enter your charge card details.
+If you are using an Apple device (like an iPhone) update your payment method on your Apple ID. To update your card across Apple services from your previous one to your bank card, go to your Apple device settings (iPhone or iPad for example) and follow these steps: Device settings -> select your name -> "Payment and Shipping" -> "Add Payment Method" -> enter your charge card details.
 
 
 
@@ -523,7 +523,7 @@ To update your card on the Delek app, you need to log into the Delek app and sel
 
 ### Connect to external apps - YouTube
 
-You can update your payment method information to your new ONE ZERO bank card on YouTube's website or app. If you are using your computer's browser, [sign in](https://myaccount.google.com/payments-and-subscriptions), click on "Manage subscription", select "Edit" next to your existing payment method, click the down arrow, then "Add Payment Method".
+You can update your payment method information to your new bank card on YouTube's website or app. If you are using your computer's browser, [sign in](https://myaccount.google.com/payments-and-subscriptions), click on "Manage subscription", select "Edit" next to your existing payment method, click the down arrow, then "Add Payment Method".
 
 
 
@@ -569,7 +569,7 @@ To keep your credit card or debit card secure, don't share the card or its detai
 
 ### Secure Payments
 
-ONE ZERO bank cards are personal and cannot be transferred or used by anyone else, so you cannot let anyone use your card, including your account partner. It is not possible to add an authorized user to your personal card. The ONE ZERO credit cards and debit cards supports 3D Secure (3DS), an information security protocol used to securely execute online transactions. This standard ensures the highest level of security for all parties to the transaction: the payee, the card issuer, and the intermediary between them.
+Bank cards are personal and cannot be transferred or used by anyone else, so you cannot let anyone use your card, including your account partner. It is not possible to add an authorized user to your personal card. The bank credit cards and debit cards supports 3D Secure (3DS), an information security protocol used to securely execute online transactions. This standard ensures the highest level of security for all parties to the transaction: the payee, the card issuer, and the intermediary between them.
 
 
 
@@ -626,13 +626,13 @@ To view and check your card transactions, you can contact Isracard via phone at 
 
 ### Card Personalization
 
-We currently offer two types of bank cards: a credit card and a debit card. The bank does not offer prepaid cards. The debit card, also known as a "direct" card, is limited to the available balance in the account. To determine which type of card is right for you, consider the objective of its use. If the card is for purchases and distribution of repayment into installments, a credit card might be suitable. This is in accordance with the line of credit allocated by the bank (subject to the credit policy and considerations). If the card is intended for purchases based on the available balance in the account, a debit card might be suitable. If you need help making the right decision, you can contact a [private banker](/actions/attach_agent).
+We currently offer two types of bank cards: a credit card and a debit card. The the bank does not offer prepaid cards. The debit card, also known as a "direct" card, is limited to the available balance in the account. To determine which type of card is right for you, consider the objective of its use. If the card is for purchases and distribution of repayment into installments, a credit card might be suitable. This is in accordance with the line of credit allocated by the bank (subject to the credit policy and considerations). If the card is intended for purchases based on the available balance in the account, a debit card might be suitable. If you need help making the right decision, you can contact a [private banker](/actions/attach_agent).
 
 
 
 ### Card Design and Options
 
-ONE ZERO debit cards on all subscription plans come in a luxurious and minimalist design in a smooth white color, with the card number imprinted on the back for maximum security and style. At this time, you cannot select the color of the card, or add a nickname to it. The ONE ZERO bank charge cards that appear on our app and in the digital wallets (Apple Pay and Google Pay) are black, but the actual physical cards that you receive are currently white with a matte finish. The card design has been created with great lengths to provide a minimalist, high-end design. This is why you received a white card. The bank has not yet made a decision about issuing a metal card. Updates on this matter will be provided later on.
+bank debit cards on all subscription plans come in a luxurious and minimalist design in a smooth white color, with the card number imprinted on the back for maximum security and style. At this time, you cannot select the color of the card, or add a nickname to it. The bank charge cards that appear on our app and in the digital wallets (Apple Pay and Google Pay) are black, but the actual physical cards that you receive are currently white with a matte finish. The card design has been created with great lengths to provide a minimalist, high-end design. This is why you received a white card. The bank has not yet made a decision about issuing a metal card. Updates on this matter will be provided later on.
 
 
 
@@ -646,14 +646,14 @@ You are waiting for the issuance of metal cards. A few hundred Founders who expr
 
 ### Reporting Stolen Cards and Disputing Charges
 
-If your card has been stolen or if someone's using your card, you must check whether any transactions have been made that you did not authorize. In case of disputed or fraudulent transactions, you can tap Additional Actions on the Cards page and then [Dispute a Charge](https://digital.isracard.co.il/personalarea/Login/?returnUrl=https%3A%2F%2Fweb.isracard.co.il%2Fcardcancellation), which will take you to Isracard's website to complete the relevant form. If you would also like to cancel the card, you can do this on the credit card company's website by accessing Isracard's card cancellation page. If your credit card details have been stolen, the recommended action is to temporarily block the old card. You can do this by going to the [cards page](https://app.tfd-bank.com/portfolio/cards), tapping More Actions, and then selecting Cancel Card on the onezerobank app. Alternatively, you can cancel the card via the [Isracard website](https://digital.isracard.co.il/personalarea/Login/?returnUrl=https%3A%2F%2Fweb.isracard.co.il%2Fcardcancellation).
+If your card has been stolen or if someone's using your card, you must check whether any transactions have been made that you did not authorize. In case of disputed or fraudulent transactions, you can tap Additional Actions on the Cards page and then [Dispute a Charge](https://digital.isracard.co.il/personalarea/Login/?returnUrl=https%3A%2F%2Fweb.isracard.co.il%2Fcardcancellation), which will take you to Isracard's website to complete the relevant form. If you would also like to cancel the card, you can do this on the credit card company's website by accessing Isracard's card cancellation page. If your credit card details have been stolen, the recommended action is to temporarily block the old card. You can do this by going to the [cards page](https://app.tfd-bank.com/portfolio/cards), tapping More Actions, and then selecting Cancel Card on the bank app. Alternatively, you can cancel the card via the [Isracard website](https://digital.isracard.co.il/personalarea/Login/?returnUrl=https%3A%2F%2Fweb.isracard.co.il%2Fcardcancellation).
 
 
 
 ## Fixed Monthly Charge
 
 ### Fixed Monthly Charge for Cards
-A fixed monthly charge cannot be applied to the ONE ZERO charge cards. A fixed charge is a feature that allows you to choose the amount you wish to pay monthly on your card, which can be useful during a specific time period when your expenses are higher than what you are able to pay. The definition of a fixed monthly amount is provided by [Isracard](https://d.isracard.co.il/5488). A fixed monthly charge can be set up for most non-bank credit cards. Before choosing to set up a fixed monthly charge, it is recommended to contact a [private banker](/actions/attach_agent) about how worthwhile it is. Very often there is a very high interest rate on fixed monthly charges. There are other financial solutions that might be more suitable for you than a fixed monthly charge. Your line of credit utilization percentage includes ongoing and installment transactions that occupy a part of the line of credit utilization percentage. Every examination of a credit application, such as an increase in the line of credit, is reviewed on each date of the customer's request anew in accordance with the bank's credit policy. Credit considerations, particularly providing a line of credit, vary from account to account and are determined as a result of the bank's credit policy. The bank is not obligated to increase its customers' lines of credit, and such a decision is an individual decision for each and every customer. A fixed charge is a feature that allows you to choose the amount you wish to pay monthly on your card, which can be useful during a specific time period when your expenses are higher than what you are able to pay.
+A fixed monthly charge cannot be applied to the bank charge cards. A fixed charge is a feature that allows you to choose the amount you wish to pay monthly on your card, which can be useful during a specific time period when your expenses are higher than what you are able to pay. The definition of a fixed monthly amount is provided by [Isracard](https://d.isracard.co.il/5488). A fixed monthly charge can be set up for most non-bank credit cards. Before choosing to set up a fixed monthly charge, it is recommended to contact a [private banker](/actions/attach_agent) about how worthwhile it is. Very often there is a very high interest rate on fixed monthly charges. There are other financial solutions that might be more suitable for you than a fixed monthly charge. Your line of credit utilization percentage includes ongoing and installment transactions that occupy a part of the line of credit utilization percentage. Every examination of a credit application, such as an increase in the line of credit, is reviewed on each date of the customer's request anew in accordance with the bank's credit policy. Credit considerations, particularly providing a line of credit, vary from account to account and are determined as a result of the bank's credit policy. The bank is not obligated to increase its customers' lines of credit, and such a decision is an individual decision for each and every customer. A fixed charge is a feature that allows you to choose the amount you wish to pay monthly on your card, which can be useful during a specific time period when your expenses are higher than what you are able to pay.
 
 
 
@@ -692,7 +692,7 @@ Interest will be charged at the rate of P+8.1% in accordance with the bank's cre
 
 ### Understanding Credit Card Line of Credit
 
-ONE ZERO Bank offers a credit card line of credit feature that defines the maximum amount you can borrow, determined by factors like creditworthiness and income. The full amount of a purchase places a hold on the line of credit on your credit card. For example, if you bought a washing machine that costs 3,000 ILS in 10 installments, the entire amount will be considered used on the line of credit, and each month the usage will decrease by the amount of the monthly installment. You can view the credit card line of credit in the app on the Cards page or on the Personal Profile page -> change [account's lines of credit page](https://app.tfd-bank.com/portfolio/settings/od-limits), or through the [Isracard app or website](https://digital.isracard.co.il/).
+The bank offers a credit card line of credit feature that defines the maximum amount you can borrow, determined by factors like creditworthiness and income. The full amount of a purchase places a hold on the line of credit on your credit card. For example, if you bought a washing machine that costs 3,000 ILS in 10 installments, the entire amount will be considered used on the line of credit, and each month the usage will decrease by the amount of the monthly installment. You can view the credit card line of credit in the app on the Cards page or on the Personal Profile page -> change [account's lines of credit page](https://app.tfd-bank.com/portfolio/settings/od-limits), or through the [Isracard app or website](https://digital.isracard.co.il/).
 
 
 
@@ -710,7 +710,7 @@ Credit card line of credit applications are reviewed for each customer as a resu
 
 ### Early Repayment, Freeing Up the Line of Credit
 
-To free up your card's line of credit, you can choose to pay a particular transaction or all transactions on the card. The action will be executed within 2 business days and will appear in the account within 4 business days, or on the upcoming billing day (the 2nd/10th/15th/20th of the month, depending on the billing day you chose). If the credit card line of credit is insufficient for you, you can make an early repayment for the credit card transactions using our services or Isracard website or you can contact a private banker to make a new request. There must be a balance in the account until the debt is covered so that the account does not become overdrawn/exceeding, depending on the account status. Another option is to try to increase the credit card line of credit independently by going to My Profile -> Change [account's lines of credit page](https://app.tfd-bank.com/portfolio/settings/od-limits) -> Change Card Line of Credit. If for some reason you were unable to increase your credit card's line of credit from the Lines of Credit page, you can try to submit a [manual request for line of credit](/actions/misgarot). Payment is subject to a private banker's approval. On the ONE subscription plan and ONE PLUS subscription plan, customers do not pay a fee for early payment. On the ZERO subscription plan, a fee of 10 ILS is paid for early payment (subject to the bank's rates). You can execute transactions with your credit card according to its line of credit and its balance, which are determined by the bank when you order the card. Please note, there is a daily limit of 10,000 ILS for withdrawing.
+To free up your card's line of credit, you can choose to pay a particular transaction or all transactions on the card. The action will be executed within 2 business days and will appear in the account within 4 business days, or on the upcoming billing day (the 2nd/10th/15th/20th of the month, depending on the billing day you chose). If the credit card line of credit is insufficient for you, you can make an early repayment for the credit card transactions using our services or Isracard website or you can contact a private banker to make a new request. There must be a balance in the account until the debt is covered so that the account does not become overdrawn/exceeding, depending on the account status. Another option is to try to increase the credit card line of credit independently by going to My Profile -> Change [account's lines of credit page](https://app.tfd-bank.com/portfolio/settings/od-limits) -> Change Card Line of Credit. If for some reason you were unable to increase your credit card's line of credit from the Lines of Credit page, you can try to submit a [manual request for line of credit](/actions/misgarot). Payment is subject to a private banker's approval. On the standard subscription plan and premium subscription plan, customers do not pay a fee for early payment. On the basic subscription plan, a fee of 10 ILS is paid for early payment (subject to the bank's rates). You can execute transactions with your credit card according to its line of credit and its balance, which are determined by the bank when you order the card. Please note, there is a daily limit of 10,000 ILS for withdrawing.
 
 
 
@@ -744,7 +744,7 @@ An overdraft limit and a credit card line of credit are two different products. 
 
 
 
-### Increasing Credit Card Line of Credit for ONE ZERO Credit Card
+### Increasing Credit Card Line of Credit for bank Credit Card
 
 In the Cards tab, you can see the credit card's line of credit by tapping the 3 dots. You can request to increase the line of credit on your credit card from profile -> Change [account's lines of credit page](https://app.tfd-bank.com/portfolio/settings/od-limits) -> Request to update credit card's Line of Credit.
 If for some reason you were unable to increase your credit card's line of credit from the Lines of Credit page, you can try to submit a [manual request for line of credit](/actions/misgarot).
@@ -767,7 +767,7 @@ Refund, in its most basic sense, is a certain amount given back to the customer 
 
 ### Fee Charge Amount For Refund
 
-ONE ZERO Bank may charge a fee for processing a refund from the cards company. The fee charge amount depends on the agreement between the business and the cards company. In installment-based transactions, the number of installments may also affect the fee amount, if applicable.
+The bank may charge a fee for processing a refund from the cards company. The fee charge amount depends on the agreement between the business and the cards company. In installment-based transactions, the number of installments may also affect the fee amount, if applicable.
 
 
 
@@ -791,9 +791,9 @@ If you don't pay your monthly credit card bill on time, it can lead to an additi
 
 
 
-### Canceling a Transaction In ONE ZERO Bank Cards
+### Canceling a Transaction At the bank cards
 
-Transaction made with ONE ZERO Bank's cards, whether regular or in installment-based, cannot be canceled.
+Transaction made with the bank's cards, whether regular or in installment-based, cannot be canceled.
 In specific cases, you may contact the credit card company we work with, [Isracard](digital.isracard.co.il/personalarea/Login), to inquire further.
 
 
@@ -811,7 +811,7 @@ If the overdraft is due to your credit card charge, it is required to settle the
 
 ## Smart Cards
 
-### ONE ZERO bank Smart Cards
+### bank Smart Cards
 
 All bank cards issued since the beginning of the bank's operations are smart cards enabled for contactless payment using NFC technology, as indicated by the symbol of the three arches on the back of the card. If you are referring to the possibility of using NFC technology (contactless payment). You can see the symbol of the three arches on the back of the card indicating this ability.
 

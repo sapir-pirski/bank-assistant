@@ -1,5 +1,7 @@
+name: bank_assistant
+
 services:
-  policy-chatbot:
+  bank-assistant:
     build: .
     env_file:
       - .env

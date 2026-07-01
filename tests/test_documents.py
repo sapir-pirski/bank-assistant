@@ -5,7 +5,7 @@ def test_load_markdown_chunks_preserves_heading_metadata(tmp_path):
     data_dir = tmp_path / "data"
     data_dir.mkdir()
     (data_dir / "policy.md").write_text(
-        "# ONE ZERO Guide\n\n"
+        "# Bank Guide\n\n"
         "Intro paragraph.\n\n"
         "## Cards\n\n"
         "Card policy details for testing.\n\n"
@@ -17,7 +17,7 @@ def test_load_markdown_chunks_preserves_heading_metadata(tmp_path):
     chunks = load_markdown_chunks(data_dir, chunk_size=120, overlap=0)
 
     assert chunks
-    assert any(chunk.heading == "ONE ZERO Guide > Cards > Abroad" for chunk in chunks)
+    assert any(chunk.heading == "Bank Guide > Cards > Abroad" for chunk in chunks)
     assert all(chunk.source == "data/policy.md" for chunk in chunks)
     assert all(chunk.metadata["source"] == chunk.source for chunk in chunks)
     assert all("heading" in chunk.metadata for chunk in chunks)

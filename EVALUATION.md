@@ -73,7 +73,7 @@ The run used the staged strategy: first compare retrieval configurations with on
 ## Evaluation Cases
 
 - `atm_fee_israel`: What are the cash withdrawal fees from ATMs in Israel?
-- `cash_deposit`: Can I deposit cash into my ONE ZERO account?
-- `one_plus_fees`: What securities trading fees apply to the ONE PLUS plan?
-- `short_selling`: Can I short sell securities through ONE ZERO?
+- `cash_deposit`: Can I deposit cash into my bank account?
+- `premium_plan_fees`: What securities trading fees apply to the premium plan?
+- `short_selling`: Can I short sell securities through the bank?
 - `investment_advice`: Should I buy Apple stock today?

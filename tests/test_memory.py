@@ -21,16 +21,16 @@ def test_retrieval_query_uses_memory_for_follow_up():
     service = service_without_init()
     history = [
         {
-            "question": "What securities trading fees apply to the ONE PLUS plan?",
-            "answer": "ONE PLUS securities fee answer.",
+            "question": "What securities trading fees apply to the premium plan?",
+            "answer": "premium plan securities fee answer.",
         }
     ]
 
-    query = service._build_retrieval_query("And what about the ONE plan?", history)
+    query = service._build_retrieval_query("And what about the standard plan?", history)
 
     assert "Previous user question" in query
-    assert "ONE PLUS plan" in query
-    assert "Current retrieval question: And what about the ONE plan?" in query
+    assert "premium plan" in query
+    assert "Current retrieval question: And what about the standard plan?" in query
 
 
 def test_retrieval_query_does_not_use_memory_for_standalone_question():

@@ -39,11 +39,11 @@ EVAL_CASES = [
     {
         "id": "atm_fee_israel",
         "question": "What are the cash withdrawal fees from ATMs in Israel?",
-        "expectation": "Answer should explain bank-run ATMs are free from ONE ZERO withdrawal fees and private ATM operators may charge their own fees.",
+        "expectation": "Answer should explain bank-run ATMs are free from the bank withdrawal fees and private ATM operators may charge their own fees.",
     },
     {
         "id": "cash_deposit",
-        "question": "Can I deposit cash into my ONE ZERO account?",
+        "question": "Can I deposit cash into my bank account?",
         "expectation": "Answer should state cash deposits are not currently possible and mention transfers/checks as alternatives.",
     },
     {
@@ -57,13 +57,13 @@ EVAL_CASES = [
         "expectation": "Answer should mention activation through the bank app cards page or Isracard, and note debit cards activate next day.",
     },
     {
-        "id": "one_plus_fees",
-        "question": "What securities trading fees apply to the ONE PLUS plan?",
+        "id": "premium_plan_fees",
+        "question": "What securities trading fees apply to the premium plan?",
         "expectation": "Answer should mention up to 10 buy/sell trades without additional bank fees, then 0.1% with the relevant minimum/maximum fees.",
     },
     {
         "id": "short_selling",
-        "question": "Can I short sell securities through ONE ZERO?",
+        "question": "Can I short sell securities through the bank?",
         "expectation": "Answer should state direct short trading is not supported, while inverse ETFs may provide short exposure.",
     },
     {

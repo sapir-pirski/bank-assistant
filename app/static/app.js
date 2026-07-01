@@ -8,7 +8,7 @@ const sendButton = document.querySelector("#sendButton");
 const sessionId = getSessionId();
 
 function getSessionId() {
-  const key = "oneZeroChatSessionId";
+  const key = "bankChatSessionId";
   const existing = window.localStorage.getItem(key);
   if (existing) {
     return existing;

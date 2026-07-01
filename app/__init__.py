@@ -1,1 +1,1 @@
-"""ONE ZERO policy chatbot application."""
+"""Bank Assistant application."""

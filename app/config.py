@@ -90,7 +90,7 @@ class Settings:
             eval_top_ks=[int(item) for item in _csv_from_env("OPENAI_EVAL_TOP_KS", ["3", "5", "8"])],
             data_dir=Path(os.getenv("DATA_DIR", "data")),
             chroma_path=Path(os.getenv("CHROMA_PATH", "chroma_data")),
-            chroma_collection=os.getenv("CHROMA_COLLECTION", "one_zero_policy"),
+            chroma_collection=os.getenv("CHROMA_COLLECTION", "bank_policy"),
             retrieval_top_k=_int_from_env("RETRIEVAL_TOP_K", 3),
             max_retrieval_distance=_float_from_env("MAX_RETRIEVAL_DISTANCE", 0.85),
             max_context_chunks=_int_from_env("MAX_CONTEXT_CHUNKS", 8),

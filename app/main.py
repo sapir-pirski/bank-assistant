@@ -29,8 +29,8 @@ settings = Settings.from_env()
 rag_service = RAGService(settings)
 
 app = FastAPI(
-    title="ONE ZERO Policy Chatbot",
-    description="RAG chatbot over provided ONE ZERO bank policy documents.",
+    title="Bank Assistant",
+    description="RAG assistant over provided bank policy documents.",
     version="0.1.0",
 )
 
@@ -66,7 +66,7 @@ class ChatResponse(BaseModel):
 @app.on_event("startup")
 def startup_index() -> None:
     logger.info(
-        "Starting policy chatbot model=%s judge_model=%s embedding=%s similarity=%s top_k=%s collection=%s temperature=%s",
+        "Starting Bank Assistant model=%s judge_model=%s embedding=%s similarity=%s top_k=%s collection=%s temperature=%s",
         settings.chat_model,
         settings.judge_model,
         settings.embedding_model,

@@ -17,7 +17,7 @@ def test_smalltalk_classification_skips_retrieval():
 def test_heuristic_classifies_bank_topic_outside_guides():
     service = service_without_init()
 
-    result = service._heuristic_classification("What mortgage rates does ONE ZERO offer?")
+    result = service._heuristic_classification("What mortgage rates does the bank offer?")
 
     assert result["classification"] == "bank_other_topic"
 
@@ -33,6 +33,6 @@ def test_heuristic_classifies_simple_in_scope_question():
 def test_heuristic_classifies_complex_in_scope_question():
     service = service_without_init()
 
-    result = service._heuristic_classification("What are card fees abroad and ONE PLUS securities fees?")
+    result = service._heuristic_classification("What are card fees abroad and premium plan securities fees?")
 
     assert result["classification"] == "in_scope_complex"

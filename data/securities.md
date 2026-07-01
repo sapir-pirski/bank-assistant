@@ -1,4 +1,4 @@
-# ONE ZERO Bank Guide on Securities Trading
+# Bank Guide on Securities Trading
 
 ## Using the mobile application
 
@@ -17,9 +17,9 @@ It is possible to trade securities and use our trading system to buy stocks, hav
 
 ## Securities trading costs and fees
 
-### Securities Fees of ONE PLUS Subscription Plan
-Securities fees for clients subscribed to the ONE PLUS Subscription Plan:
-* The ONE PLUS subscription plan is designed for customers who frequently trade securities.
+### Securities Fees of premium subscription plan
+Securities fees for clients subscribed to the premium subscription plan:
+* The premium subscription plan is designed for customers who frequently trade securities.
 * Subscribers to this plan benefit from up to a total of 10 buy or sell trades in foreign securities and Israeli securities combined, without incurring additional fees beyond the standard subscription rate.
 * For transactions beyond the initial 10 trades, fees are set at the following way:
     * For Foreign Securities - 0.1% of the transaction amount or a minimum of 8 USD per transaction, with a maximum cap of 500 USD per transaction, along with third-party expenses.
@@ -28,8 +28,8 @@ Securities fees for clients subscribed to the ONE PLUS Subscription Plan:
 * There may be third-party expenses other than the subscription fee, except of active funds
 
 
-### Securities Fees of ONE Subscription Plan
-Securities fees For clients subscribed to the ONE subscription plan:
+### Securities Fees of standard subscription plan
+Securities fees For clients subscribed to the standard subscription plan:
 * For Foreign Securities:
     * Each buy or sell stock operation carries a fee of 0.1% of the transaction amount or a minimum of 8 USD per transaction.
     * There is a maximum limit of 500 USD per transaction.
@@ -39,8 +39,8 @@ Securities fees For clients subscribed to the ONE subscription plan:
     * There is a maximum limit of 2,000 ILS per transaction.
 
 
-### Securities Fees of ZERO Subscription Plan
-Securities fees for clients subscribed to the ZERO subscription plan are divided into fees on foreign securities and fees on Israeli tracking funds:
+### Securities Fees of basic subscription plan
+Securities fees for clients subscribed to the basic subscription plan are divided into fees on foreign securities and fees on Israeli tracking funds:
 * Fees on Foreign Securities:
     * Each buy or sell operation is charged 0.3% of the transaction amount or a minimum of 24 USD per transaction.
     * The maximum limit is 1,500 USD per transaction.
@@ -52,14 +52,14 @@ Securities fees for clients subscribed to the ZERO subscription plan are divided
 
 
 ### Active Funds Fees
-We are not charging fees for transactions on Active funds. There are no third-party expenses also. Due to it, buy/sell transactions on active funds are not counted as part of the benefit of "up to 10 buy/sell transactions without incurring additional fees" under the ONE PLUS subscription plan.
+We are not charging fees for transactions on Active funds. There are no third-party expenses also. Due to it, buy/sell transactions on active funds are not counted as part of the benefit of "up to 10 buy/sell transactions without incurring additional fees" under the premium subscription plan.
 
 
 ### Which Subscription Plan Fits To Each Trader and Investor
-For customers who typically take more than 3 instructions per month, the ONE PLUS subscription plan will probably suit them better. Others will probably be better suited to the ONE subscription plan.
+For customers who typically take more than 3 instructions per month, the premium subscription plan will probably suit them better. Others will probably be better suited to the standard subscription plan.
 
 ### Maintain, Depository, Management and Custody Fees
-All of the following fees are not being charged from any of ONE ZERO bank's clients:
+All of the following fees are not being charged from any of the bank's clients:
 * Fees for maintain a securities portfolio
 * Depository fees
 * Account management / Custody fees
@@ -67,15 +67,15 @@ All of the following fees are not being charged from any of ONE ZERO bank's clie
 
 
 ### Management fees and Custody Fees Explanation
-In most of the Israeli banks, management fees are charges applied by investment managers for overseeing a client's investment portfolio. Typically expressed as a percentage of the assets under management (AUM), these fees cover the managers' expertise, time, and operational costs. In addition to management fees, banks often charge custody fees, which are fees for holding and safeguarding the securities in the client's portfolio. Both types of fees are common in various investment vehicles, including mutual funds and investment accounts. These fees directly impact the net returns of investors, making it essential for clients to understand these costs when evaluating the overall performance and potential returns of their investments. In ONE ZERO bank, non of our clients is being charged for management fees or custody fees.
+In most of the Israeli banks, management fees are charges applied by investment managers for overseeing a client's investment portfolio. Typically expressed as a percentage of the assets under management (AUM), these fees cover the managers' expertise, time, and operational costs. In addition to management fees, banks often charge custody fees, which are fees for holding and safeguarding the securities in the client's portfolio. Both types of fees are common in various investment vehicles, including mutual funds and investment accounts. These fees directly impact the net returns of investors, making it essential for clients to understand these costs when evaluating the overall performance and potential returns of their investments. At the bank, non of our clients is being charged for management fees or custody fees.
 
 ### Third-Party Expenses
 Third-party expenses incurred for securities transactions encompass both buying and selling expenses. These expenses are subject to variation depending on factors such as the type of security and the jurisdiction in which the transaction occurs. When executing transactions, these charges will be reflected either in the designated foreign currency account or the ILS checking account, depending on the customer's specified preference at the time of instruction submission. It's important to note that these expenses represent the actual costs borne by the bank during the execution of instructions. Consequently, the bank is unable to provide discounts or waive these charges. As such, customers should anticipate these expenses as part of their overall transaction costs and plan accordingly when engaging in securities trading activities. Please note that third-party expenses cannot be discounted or waived, as they represent the actual costs incurred during transaction execution. Expenses related to transactions involving third parties, such as brokers or the SEC, will be charged accordingly and reflected in either foreign currency or ILS checking accounts, depending on the client's preference at the time of instruction. Third party expenses may change from time to time (according to changes in taxes, levies, changes in law in each country, etc.). Active funds are not charged third-party expenses.
 
-### Fees Charged For Buying and Selling Israeli Mutual Fund in ONE ZERO Bank
+### Fees Charged For Buying and Selling Israeli Mutual Fund at the bank
 Buying and selling Israeli mutual fund divided for 2 types of fees:
 * Fees charged by the fund manager - Fees that are not collected directly from your account, although you pay them indirectly. The fees vary for each mutual fund.
-* Fees charged by ONE ZERO Bank - There are buy/sell fees that being charged by ONE ZERO bank for Israeli Tracking Funds according to the subscription plan.
+* Fees charged by the bank - There are buy/sell fees that being charged by the bank for Israeli Tracking Funds according to the subscription plan.
 
 
 ### Fees Charged For Buying and Selling Israeli Mutual Fund By Fund Manager
@@ -87,13 +87,13 @@ All the following fees are included in the mutual fund price as fees that being 
 
 The fees vary for each mutual fund, and you can view them on each fund’s page in the app.
 
-### Fees Charged By ONE ZERO Bank For Buying and Selling Israeli Mutual Funds
-There are buy/sell fees that being charged by ONE ZERO bank for Israeli Tracking Funds according to the subscription plan:
-* ZERO subscription plan - 0.3% of the transaction amount, minimum 30 ILS, maximum 6,000 ILS.
-* ONE subscription plan - 0.1% of the transaction amount, minimum 10 ILS, maximum 2,000 ILS.
-* ONE PLUS subscription plan - 10 transactions per month with no bank fees, and from the 11th transaction, a fee of 0.1% of the transaction amount will be charged, minimum 10 ILS, maximum 2,000 ILS.
+### Fees Charged By the bank For Buying and Selling Israeli Mutual Funds
+There are buy/sell fees that being charged by the bank for Israeli Tracking Funds according to the subscription plan:
+* basic subscription plan - 0.3% of the transaction amount, minimum 30 ILS, maximum 6,000 ILS.
+* standard subscription plan - 0.1% of the transaction amount, minimum 10 ILS, maximum 2,000 ILS.
+* premium subscription plan - 10 transactions per month with no bank fees, and from the 11th transaction, a fee of 0.1% of the transaction amount will be charged, minimum 10 ILS, maximum 2,000 ILS.
 
-We are not charging fees for transactions on Active Funds. Due to it, buy/sell transactions on active funds are not counted as part of the benefit of "up to 10 buy/sell transactions without incurring additional fees" under the ONE PLUS subscription plan.
+We are not charging fees for transactions on Active Funds. Due to it, buy/sell transactions on active funds are not counted as part of the benefit of "up to 10 buy/sell transactions without incurring additional fees" under the premium subscription plan.
 
 ### Trading Platform General Information
 We offer an advanced trading platform for independent trading.
@@ -104,7 +104,7 @@ The trading platform allows to trade in:
 Trading is available through the [securities store](https://app.tfd-bank.com/portfolio/securities/store).
 
 
-## ONE ZERO Trade Instructions Hours and Conditional instructions
+## Bank Trade Instructions Hours and Conditional instructions
 
 ### Securities Team Operational Hours
 The phone and chat service hours of the [Securities Team](/actions/securities_agent) on Sunday are between 09:30-16:00, and on Monday to Thursday are between 09:30-23:00.
@@ -113,7 +113,7 @@ Note that on holidays and holiday eves, the business day's hours may change.
 
 ### Trading, modifying and Canceling Trade Instructions
 Should you encounter difficulty in canceling or modifying an existing instruction, or if you wish to cancel an instruction that has already been sent, our [Securities Team](/actions/securities_agent) is available to assist you during operational hours. We facilitate updates to existing instructions to ensure flexibility in your trading strategy.
-ONE ZERO Bank allows changing an instruction through the Instructions button on the [securities instructions page](https://app.tfd-bank.com/portfolio/securities/order-book) -> select an instruction line -> swipe right -> you see an option to cancel or edit an instruction.
+The bank allows changing an instruction through the Instructions button on the [securities instructions page](https://app.tfd-bank.com/portfolio/securities/order-book) -> select an instruction line -> swipe right -> you see an option to cancel or edit an instruction.
 
 
 ### Mutual funds trading hours at TASE
@@ -136,7 +136,7 @@ Conditional instructions, triggered by predefined conditions, and available trad
 At this time, we do not offer Pre-Market, After-Market and Stop-Loss trading.
 
 ### Mutual Funds Orders
-Buy/sell orders in mutual funds are different from those for stocks. ONE ZERO Bank allows to send orders during mutual fund trading hours using a KRN instruction, and the order will be executed at the end of the day. This type of order is unique to mutual funds. You will have the option to choose between sending the order for the same trading day or for the next trading day.
+Buy/sell orders in mutual funds are different from those for stocks. The bank allows to send orders during mutual fund trading hours using a KRN instruction, and the order will be executed at the end of the day. This type of order is unique to mutual funds. You will have the option to choose between sending the order for the same trading day or for the next trading day.
 
 
 ## Instruction Statuses
@@ -161,7 +161,7 @@ Canceling a mutual fund order is only possible if the trading hours for mutual f
 If you placed an order and then canceled it subject to the cancelation rules, no additional fees will be charged for the order or its cancelation.
 
 ### Refund For Order That Has Been Canceled
-If you canceled an order before it was executed, you won't be charged for it. If you are a customer of the ONE PLUS subscription plan and the order was included in your 10 free monthly orders benefit, the canceled order won't count towards it.
+If you canceled an order before it was executed, you won't be charged for it. If you are a customer of the premium subscription plan and the order was included in your 10 free monthly orders benefit, the canceled order won't count towards it.
 
 ### Partial Execution and Validation
 Instructions might also be partially executed, either due to reaching a limit or other factors such as trading market volatility at a given moment. A partially executed instruction refers to one that has been transmitted to the stock exchange but only partially fulfilled. Understanding these statuses is vital for effective securities management and decision-making.
@@ -177,32 +177,32 @@ To monitor your pending instructions and review their history, navigate to the [
 When initiating transactions in mutual funds, you can use your ILS balance only. It's important to ensure that your account balance is sufficient before issuing purchase instructions, as insufficient balances might prevent the completion of the transaction.
 
 
-### Investment Options and Policies for Digital Asset Exposure at ONE ZERO Bank
-ONE ZERO Bank, in alignment with the bank's policy outlined on the website, provides access to ETF stocks that track digital currencies, which can be found in the Securities tab of the banking platform. These offerings allow customers to diversify their investment portfolios with exposure to digital assets. Additionally, ONE ZERO Bank does not support trading in digital currencies directly, but allows an option to trade ETFs that imitate digital currencies. This does not constitute a recommendation. Available securities for trading include stocks, ETFs, warrants, and select rights on the US stock exchange. Customers can choose whether to invest in ETFs that passively track market indices. You can view all ETFs that can be traded through the [securities store](https://app.tfd-bank.com/portfolio/securities/store).
+### Investment Options and Policies for Digital Asset Exposure at the bank
+bank, in alignment with the bank's policy outlined on the website, provides access to ETF stocks that track digital currencies, which can be found in the Securities tab of the banking platform. These offerings allow customers to diversify their investment portfolios with exposure to digital assets. Additionally, bank does not support trading in digital currencies directly, but allows an option to trade ETFs that imitate digital currencies. This does not constitute a recommendation. Available securities for trading include stocks, ETFs, warrants, and select rights on the US stock exchange. Customers can choose whether to invest in ETFs that passively track market indices. You can view all ETFs that can be traded through the [securities store](https://app.tfd-bank.com/portfolio/securities/store).
 
 
-### Available securities at TASE through ONE ZERO Bank
-For now, it is only possible to trade mutual funds like active funds and tracking funds at TASE through ONE ZERO Bank.
+### Available securities at TASE through the bank
+For now, it is only possible to trade mutual funds like active funds and tracking funds at TASE through the bank.
 
 
 ### Settlement Process and Support for Foreign and Israeli Securities and Account Credits
 Securities settlement in the United States and Israel operates on a T+1 cycle, where proceeds from the sale of securities usually appear in the account one business day after the execution date, except for Israeli mutual funds with exposure to foreign securities or foreign currency, which may settle after more than one business day. In case of delays or discrepancies in the crediting of funds, you can contact a [private banker](/actions/attach_agent) for assistance. Additionally, it's important to know that when you are buying or selling stock at US market you will get an option to choose between ILS account or USD account, except if you don’t have a USD account, then you will be charged or credited from the ILS account instead. Contact information for private bankers is available on the banking platform, and inquiries are typically addressed during the Securities Department's operating hours.
 
 ### Transfer of Securities Portfolio during Bank Migration
-Currently, ONE ZERO Bank does not support the migration of securities portfolios from third-party accounts to ONE ZERO Bank accounts. The bank is actively working on implementing this feature to facilitate the seamless transfer of investment holdings for its customers. However, ONE ZERO Bank does support the migration of portfolios from ONE ZERO Bank accounts to third-party accounts.
+Currently, the bank does not support the migration of securities portfolios from third-party accounts to bank accounts. The bank is actively working on implementing this feature to facilitate the seamless transfer of investment holdings for its customers. However, the bank does support the migration of portfolios from the bank accounts to third-party accounts.
 
-## Securities That Doesn't Exist On The ONE ZERO Bank Securities Store
+## Securities That Doesn't Exist On The Bank Securities Store
 
-### Foreign Securities That Doesn't Exist On The ONE ZERO Bank Securities Store
-If you can't find securities stocks on the ONE ZERO bank securities store and wish to consider adding them, you can contact the [securities team](/actions/attach_agent)
+### Foreign Securities That Doesn't Exist On The Bank Securities Store
+If you can't find securities stocks on the bank securities store and wish to consider adding them, you can contact the [securities team](/actions/attach_agent)
 
-### Trading BlackRock, Irish Funds, ISHARES Through ONE ZERO Bank
-At this stage, ONE ZERO bank cannot support trading in Irish funds that trade on TASE and cannot add this specific fund to the securities store of ONE ZERO Bank. Stay tuned for updates on the availability of Irish funds trading, which will be announced through official channels.
+### Trading BlackRock, Irish Funds, ISHARES Through the bank
+At this stage, bank cannot support trading in Irish funds that trade on TASE and cannot add this specific fund to the securities store of bank. Stay tuned for updates on the availability of Irish funds trading, which will be announced through official channels.
 
 ## Regulations including SEC, Notifications, Payment Changes, ADR Fees
 
 ### SEC Fees and Subscription Plan Implications
-When engaging in securities transactions, customers might encounter third-party expenses (except of active funds), such as SEC fees, which are applicable even under fee-less subscription plans. Notably, starting from the 11th transaction within a given month, customers, including those on fee-less subscription plans, will incur charges akin to the ONE subscription plan.
+When engaging in securities transactions, customers might encounter third-party expenses (except of active funds), such as SEC fees, which are applicable even under fee-less subscription plans. Notably, starting from the 11th transaction within a given month, customers, including those on fee-less subscription plans, will incur charges akin to the standard subscription plan.
 
 ### Notifications and Security Actions
 The bank disseminates information regarding various securities actions through multiple channels, ensuring customers remain informed about relevant developments. Updates on forthcoming securities actions are available on designated websites, enabling you to stay abreast of pertinent information. You will be notified about dividends in your messages box, where you can find confirmation messages for the dividend payments received in your foreign currency account, and about various security actions which are promptly delivered whenever the bank becomes aware of any relevant actions.
@@ -239,7 +239,7 @@ Splits in the context of corporate actions refer to events where the number of s
 ## Bonds
 
 ### Explanation of Bonds
-Bonds enables companies and the government to raise money from the public, in a process similar to that in which we take a loan from ONE ZERO bank. The company issuing the bond returns the debt to us at a predetermined date. At the moment, ONE ZERO Bank does not support trading in bonds, but trading in ETFs and mutual funds that have exposure to bond assets is supported.
+Bonds enables companies and the government to raise money from the public, in a process similar to that in which we take a loan from the bank. The company issuing the bond returns the debt to us at a predetermined date. At the moment, bank does not support trading in bonds, but trading in ETFs and mutual funds that have exposure to bond assets is supported.
 
 ## Investment Portfolio and Consultation Services, Trading system review
 
@@ -251,12 +251,12 @@ Our trading system provides a robust platform equipped with advanced AI tools to
 Navigate to the Securities page and select Securities to view detailed insights into your holdings, including earnings or losses on individual stocks. By tapping into My Holdings inside the [securities page](https://app.tfd-bank.com/portfolio/securities), you can monitor changes in stock performance through metrics like Change from Buy or Daily Change. Utilize the Securities page to stay informed about your investment portfolio's value, stock quantities, and overall performance. Whether you are tracking AAPL or other stocks, the trading system offers comprehensive tools to help you make informed investment decisions.
 
 ### Trends Section Overview
-Trends is an area inside the [securities store](https://app.tfd-bank.com/portfolio/securities/store) that shows the top 10 rising or falling stocks in percentage terms that day. Trends area will allow you to observe price volatility. The information presented in Trends area does not show investment advice or a buy or sell recommendation. The data of Trends area is updated to the last 3 seconds for customers receiving real-time information, while delayed customers will receive the data with a delay of up to 15 minutes. It's important to mention that the list of securities displayed on the Trends area are shares currently traded on ONE ZERO Bank.
+Trends is an area inside the [securities store](https://app.tfd-bank.com/portfolio/securities/store) that shows the top 10 rising or falling stocks in percentage terms that day. Trends area will allow you to observe price volatility. The information presented in Trends area does not show investment advice or a buy or sell recommendation. The data of Trends area is updated to the last 3 seconds for customers receiving real-time information, while delayed customers will receive the data with a delay of up to 15 minutes. It's important to mention that the list of securities displayed on the Trends area are shares currently traded on bank.
 
 ### Trends Area Data Update Time
-The updates of the data in the Trends area depend on signing the declaration of securities trading in ONE ZERO bank:
-* If you have signed the declaration, the data for you through ONE ZERO bank's trading system will update in real-time, presenting data from the last 3 seconds.
-* If you have not signed the declaration, the data for you through ONE ZERO bank's trading system will update with a delay of up to 15 minutes.
+The updates of the data in the Trends area depend on signing the declaration of securities trading at the bank:
+* If you have signed the declaration, the data for you through the bank's trading system will update in real-time, presenting data from the last 3 seconds.
+* If you have not signed the declaration, the data for you through the bank's trading system will update with a delay of up to 15 minutes.
 
 
 ### Consultation and Assistance In Securities Options by Private Bankers
@@ -304,7 +304,7 @@ Israeli residents are subject to a 25% tax withholding for capital gains on tran
 ## Tracking Funds
 
 ### General Information About Tracking Funds
-Tracking funds are a specific type of mutual fund whose purpose is to track a certain index, on a best effort basis, meaning - it does not commit to it. Most often, a tracking fund buys the assets that make up the index according to their weight but can also be exposed through derivatives or through investment in other tracking instruments (mainly abroad). Some funds may be exposed to currency, USD for example, and can cause a situation in which the index rises and the dollar USD falls, thereby cumulatively the return can be lower than expected or even negative. On the other hand, a currency-neutralized fund will only be exposed to changes in the index but carries within it the costs of neutralizing a currency. Tracking funds can be traded at ONE ZERO Bank.
+Tracking funds are a specific type of mutual fund whose purpose is to track a certain index, on a best effort basis, meaning - it does not commit to it. Most often, a tracking fund buys the assets that make up the index according to their weight but can also be exposed through derivatives or through investment in other tracking instruments (mainly abroad). Some funds may be exposed to currency, USD for example, and can cause a situation in which the index rises and the dollar USD falls, thereby cumulatively the return can be lower than expected or even negative. On the other hand, a currency-neutralized fund will only be exposed to changes in the index but carries within it the costs of neutralizing a currency. Tracking funds can be traded at the bank.
 
 
 ### Types of Tracking Funds
@@ -384,7 +384,7 @@ Other terms:
 * Excess Demand: An economic situation where the demand for a product in the market exceeds the available supply. This often leads to a price increase
 * Foreign Security: A security issued by a foreign government or corporation. These can offer diversification benefits but also carry risks like currency fluctuations and political instability
 * Derivatives: Derivatives are financial instruments whose value is derived from another asset. There are two main types of derivatives: options and futures. These derivatives allow buyers or sellers to protect their investment from increases or decreases in the price of a particular asset, but also as a substitute for a leveraged investment in the underlying asset.
-* Fractional shares: Fractional Share is a part of an entire share of a company that is traded on the stock exchange. Buying a fractional share means buying less than an entire share of company, which allows investment of amount that is smaller than the amount of the entire share. At the moment, it is not possible to buy fractions of shares through ONE ZERO Bank's securities trading system.
+* Fractional shares: Fractional Share is a part of an entire share of a company that is traded on the stock exchange. Buying a fractional share means buying less than an entire share of company, which allows investment of amount that is smaller than the amount of the entire share. At the moment, it is not possible to buy fractions of shares through the bank's securities trading system.
 * SEC fees: SEC fees attached to securities who are listed at the US stock market. The fee is based on the volume of shares traded and applies to the sale of stocks, but not the purchase of stocks.
 * ETF: ETF is an acronym for Exchange-Traded Fund, meaning: exchange-traded fund. It is a pooled security that can be bought and sold like an individual stock. ETF's allow you access to many stocks across various industries. ETF's can be structured to track anything from the price of a commodity to an index.
 
@@ -450,14 +450,14 @@ Most Commonly Known Index Types at US market:
 
 ## Information of investment in securities
 
-### General Information of Securities Investment and ONE ZERO Bank Profits
+### General Information of Securities Investment and Bank Profits
 
-Securities trading represents a dynamic realm where investors navigate various financial instruments, regulatory landscapes, and market conditions to optimize their portfolios. At ONE ZERO Bank, this journey is streamlined and enriched through a comprehensive suite of services tailored to meet diverse investment needs. From tax considerations to regulatory compliance and precise trading instructions, ONE ZERO Bank equips investors with the knowledge and tools necessary for informed decision-making. Clients benefit from a deep understanding of digital currencies, available securities, and bond types, enhancing their ability to seize opportunities in the market. Monitoring dividend payments, notifications, and the potential for dividend reinvestment adds further value to one's investment portfolio, fostering long-term growth. With Exchange-Traded Funds (ETFs) available, investors can passively track market indices efficiently, while also leveraging the bank's expertise in fundamental and technical analysis, mutual funds, and stock exchange operations to navigate the market effectively. Understanding concepts such as limit and market instructions, as well as conditional instructions, ensures seamless execution of transactions. Moreover, insights into factors influencing market volatility and interest rates enable clients to manage risk effectively. Through ONE ZERO Bank's subscription plans and fees, investors can tailor their trading strategies to align with their financial goals, while also accessing ongoing pension advice and savings plans for long-term wealth accumulation. With private banking services available, clients can benefit from personalized budgeting consultation, further enhancing their financial management capabilities. From cancelling post-dated instructions to understanding securities settlements, ONE ZERO Bank ensures a smooth and transparent investment experience for its clients. In summary, securities trading with ONE ZERO Bank integrates robust financial acumen, market expertise, and strategic planning to empower investors in achieving their investment objectives efficiently and effectively.
+Securities trading represents a dynamic realm where investors navigate various financial instruments, regulatory landscapes, and market conditions to optimize their portfolios. At the bank, this journey is streamlined and enriched through a comprehensive suite of services tailored to meet diverse investment needs. From tax considerations to regulatory compliance and precise trading instructions, the bank equips investors with the knowledge and tools necessary for informed decision-making. Clients benefit from a deep understanding of digital currencies, available securities, and bond types, enhancing their ability to seize opportunities in the market. Monitoring dividend payments, notifications, and the potential for dividend reinvestment adds further value to one's investment portfolio, fostering long-term growth. With Exchange-Traded Funds (ETFs) available, investors can passively track market indices efficiently, while also leveraging the bank's expertise in fundamental and technical analysis, mutual funds, and stock exchange operations to navigate the market effectively. Understanding concepts such as limit and market instructions, as well as conditional instructions, ensures seamless execution of transactions. Moreover, insights into factors influencing market volatility and interest rates enable clients to manage risk effectively. Through the bank's subscription plans and fees, investors can tailor their trading strategies to align with their financial goals, while also accessing ongoing pension advice and savings plans for long-term wealth accumulation. With private banking services available, clients can benefit from personalized budgeting consultation, further enhancing their financial management capabilities. From cancelling post-dated instructions to understanding securities settlements, the bank ensures a smooth and transparent investment experience for its clients. In summary, securities trading with the bank integrates robust financial acumen, market expertise, and strategic planning to empower investors in achieving their investment objectives efficiently and effectively.
 
 
-### Investment In Israeli Securities Through ONE ZERO Bank
+### Investment In Israeli Securities Through the bank
 
-The Tel Aviv Stock Exchange is the only Stock Market in Israel. For now at TASE, it is only possible to trade mutual funds like active funds and tracking funds through ONE ZERO Bank.
+The Tel Aviv Stock Exchange is the only Stock Market in Israel. For now at TASE, it is only possible to trade mutual funds like active funds and tracking funds through the bank.
 
 
 ## Custodian Policy in Securities
@@ -468,10 +468,10 @@ A custodian is someone who holds foreign securities for us in trust. If our cust
 
 
 ### Custodian Policy for Israeli Securities
-ONE ZERO Bank is a member of TASE, and securities trading is conducted directly with the Israeli stock exchange.
+The bank is a member of TASE, and securities trading is conducted directly with the Israeli stock exchange.
 
 
-## ONE ZERO Securities Store
+## Bank Securities Store
 
 ### General Information About The Store
 
@@ -480,11 +480,11 @@ In the various sectors, the sorting of the presentation of shares is by market c
 
 
 ### Stocks Who Can Be Find In The Store
-The store lists about 100 of the most popular stocks among ONE ZERO traders and sorted by sectors. The popular stocks are among customers who invest through the bank's trading platform, without taking into account the actual amount of holdings of the holders.
+The store lists about 100 of the most popular stocks among bank traders and sorted by sectors. The popular stocks are among customers who invest through the bank's trading platform, without taking into account the actual amount of holdings of the holders.
 In addition, you can see what percentage of traders out of all traders own paper. You can view common stock trends, based on the rise or fall of the stock and its percentage. In addition, you can watch the trend of the most active stocks in the last 24 hours. You may trade through your bank on shares, ETFs, warrants and selected rights (obtained from corporate events only) traded on a U.S. stock exchange. If there is a stock you are interested in trading and it does not appear on the list of trading stocks, our private bankers are here for you.
 
 ### Securities Advice In The Store
-There is no investment advice in the bank, but you can use the decision support (AI-based) screens available at the bottom of the stock details in the app, inside the [securities store](https://app.tfd-bank.com/portfolio/securities/store). For ONE PLUS Subscription plan customers, a summary of a share analysis, financial summary and analysis of the business environment will appear.
+There is no investment advice in the bank, but you can use the decision support (AI-based) screens available at the bottom of the stock details in the app, inside the [securities store](https://app.tfd-bank.com/portfolio/securities/store). For premium subscription plan customers, a summary of a share analysis, financial summary and analysis of the business environment will appear.
 
 ## stocks news feed user guide
 
@@ -562,10 +562,10 @@ In a Stop-Loss (stop market) instruction, when the price triggers, a market inst
 ## AI Securities Reviews
 
 ### Information About The Weekly AI Securities Portfolio Reviews
-At the start of each week, users of the ONE subscription plan and the ONE PLUS subscription plan automatically receive a personal review of their stocks portfolio. The review includes updates on the previous trading week for the 10 stocks in the portfolio with the highest holding value. You can access the review by clicking on the Review button inside the [securities page](https://app.tfd-bank.com/portfolio/securities). It is important to mention that there is also an option to independently generate an AI securities reviews anytime for stocks you'd like to get a review about. Note that this review is for informational purposes only and does not constitute investment advice, taking into account your individual needs. You alone assume own responsibility for evaluating the merits and risks associated with using any information before making any decisions based on such a review.
+At the start of each week, users of the standard subscription plan and the premium subscription plan automatically receive a personal review of their stocks portfolio. The review includes updates on the previous trading week for the 10 stocks in the portfolio with the highest holding value. You can access the review by clicking on the Review button inside the [securities page](https://app.tfd-bank.com/portfolio/securities). It is important to mention that there is also an option to independently generate an AI securities reviews anytime for stocks you'd like to get a review about. Note that this review is for informational purposes only and does not constitute investment advice, taking into account your individual needs. You alone assume own responsibility for evaluating the merits and risks associated with using any information before making any decisions based on such a review.
 
 ### Generate Independently AI Securities Portfolio Reviews
-Users of the ONE subscription plan and ONE PLUS subscription plan can independently generate reviews.
+Users of the standard subscription plan and premium subscription plan can independently generate reviews.
 You can access this feature on the following pages:
 * Securities page: You can search for specific stocks you are curious about and request an independent review by clicking on the "Weekly Review" section inside the specific stock's page.
 * Favorites page: You can independently generate a review for the stocks list you created on the Favorites page by clicking on the "Review" button at the top of the screen. The review from the Favorites page includes updates on the 10 stocks with the highest market value.
@@ -588,24 +588,24 @@ There are few types of money market funds:
 * USD Money Market Fund – holds U.S. government bonds, high-grade corporate bonds and USD deposits. USD Money Market Fund are traded in TASE and can be purchased in ILS or USD.
 
 
-### Trading Money Market Funds At ONE ZERO Bank
-It is possible to trade Money Market Funds at TASE in ONE ZERO Bank through the app.
+### Trading Money Market Funds At the bank
+It is possible to trade Money Market Funds at TASE at the bank through the app.
 
-## Comparison of Securities Fees Between ONE ZERO Bank and Other Banks in Israel
+## Comparison of Securities Fees Between the bank and Other Banks in Israel
 
-### Comparison of Foreign Securities Fees Between ONE ZERO Bank and Other Banks in Israel
-According to the Tel Aviv Stock Exchange, the average cost of purchasing/selling foreign securities at other banks listed on the website is 0.44% per transaction. Additionally, the average minimum fee for such a transaction is 24.83 USD, and the average maximum is 6,706.66 USD. In contrast, the advertised and average cost at ONE ZERO Bank is 0.13% when averaging all subscription plans. Under the ZERO tariff, the cost is 0.3% of the transaction value with a minimum of 24 USD The ONE Subscription plan has a commission of 0.1% of the transaction value with a minimum of 8 USD, while the ONE PLUS Subscription plan allows for 10 buy/sell transactions per month at no additional cost. The average minimum per transaction is 10.66 USD, with a maximum of 53.33 USD. Additionally, the average portfolio management and/or securities deposit fee at other banks is 0.51% per quarter, compared to 0% at ONE ZERO Bank.
+### Comparison of Foreign Securities Fees Between the bank and Other Banks in Israel
+According to the Tel Aviv Stock Exchange, the average cost of purchasing/selling foreign securities at other banks listed on the website is 0.44% per transaction. Additionally, the average minimum fee for such a transaction is 24.83 USD, and the average maximum is 6,706.66 USD. In contrast, the advertised and average cost at the bank is 0.13% when averaging all subscription plans. Under the basic tariff, the cost is 0.3% of the transaction value with a minimum of 24 USD The standard subscription plan has a commission of 0.1% of the transaction value with a minimum of 8 USD, while the premium subscription plan allows for 10 buy/sell transactions per month at no additional cost. The average minimum per transaction is 10.66 USD, with a maximum of 53.33 USD. Additionally, the average portfolio management and/or securities deposit fee at other banks is 0.51% per quarter, compared to 0% at the bank.
 
 
-### Comparison of Israeli Mutual Funds Fees Between ONE ZERO Bank and Other Banks in Israel
+### Comparison of Israeli Mutual Funds Fees Between the bank and Other Banks in Israel
 According to the [Tel Aviv Stock Exchange](https://market.tase.co.il/he/market_data/trading_fees), the average cost of purchasing/selling securities at other banks listed on the website is 0.44% per transaction. Additionally, the average minimum fee for such a transaction is 24.83 USD, and the average maximum is 6,706.66 USD.
-In contrast, the advertised and average cost at ONE ZERO Bank is 0.13% when averaging all subscription plans. Under the ZERO tariff, the cost is 0.3% of the transaction value with a minimum of 24 USD. The ONE Subscription plan has a commission of 0.1% of the transaction value with a minimum of 8 USD, while the ONE PLUS Subscription plan allows for 10 buy/sell transactions per month at no additional cost. The average minimum per transaction is 10.66 USD, with a maximum of 53.33 USD.
-Additionally, the average portfolio management and/or securities deposit fee at other banks is 0.51% per quarter, compared to 0% at ONE ZERO Bank.
+In contrast, the advertised and average cost at the bank is 0.13% when averaging all subscription plans. Under the basic tariff, the cost is 0.3% of the transaction value with a minimum of 24 USD. The standard subscription plan has a commission of 0.1% of the transaction value with a minimum of 8 USD, while the premium subscription plan allows for 10 buy/sell transactions per month at no additional cost. The average minimum per transaction is 10.66 USD, with a maximum of 53.33 USD.
+Additionally, the average portfolio management and/or securities deposit fee at other banks is 0.51% per quarter, compared to 0% at the bank.
 
 ## Investment Options
 
-### Investment Options Offered by ONE ZERO Bank
-At ONE ZERO Bank, there are several investment options available to you based on your decision:
+### Investment Options Offered by the bank
+At the bank, there are several investment options available to you based on your decision:
 * Investment in Securities - Through the trading store in the bank's app (without advisory and investment management services in securities). The investment is solely at the customer's discretion.
 * Deposits Available at the Bank - Daily savings account, monthly savings account and annual savings account. The deposits are offered according to exit points and deposit methods at your discretion. You can view the [savings account page](https://app.tfd-bank.com/portfolio/ils/deposits).
 * Pension - There are tracks where you can invest in the capital market through pension products. Our [pension consultants](/actions/pension_agent) will be happy to assist you.
@@ -613,11 +613,10 @@ At ONE ZERO Bank, there are several investment options available to you based on
 
 ## Standing Orders in Securities
 
-### Purchase Securities with Standing Order in ONE ZERO Bank
-Setting up a standing order for the purchase of securities through ONE ZERO Bank is not possible.
+### Purchase Securities with Standing Order at the bank
+Setting up a standing order for the purchase of securities through the bank is not possible.
 
 
-### Automated Recurring Purchase of Securities in ONE ZERO Bank
-Setting up an automated recurring purchase of securities through ONE ZERO Bank is not possible.
-
+### Automated Recurring Purchase of Securities at the bank
+Setting up an automated recurring purchase of securities through the bank is not possible.
 
